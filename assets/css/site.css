@@ -1397,6 +1397,7 @@ ol li:before {
 }
 .card-text {
 	margin-top: 0;
+    text-align: left;
 }
 .card-title {
 	margin: 0;
