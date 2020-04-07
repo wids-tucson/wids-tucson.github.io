@@ -7,7 +7,7 @@ layout: default
     <div class="row half">
         <div class="12u">
             <header>
-                <h2 style="margin: 0"><strong>Attendees</strong></h2>
+                <h2 style="margin: 0"><strong>Presenters</strong></h2>
             </header>
             <div class="row half">
                 <p style="margin: 0">As of Apr 30, 2018</p>
