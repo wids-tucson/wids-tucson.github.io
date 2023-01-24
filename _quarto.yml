@@ -1,8 +1,9 @@
 project:
   type: website
+  output-dir: docs
 
 website:
-  title: "wids-tucson.github.io"
+  title: "WiDS Tucson"
   navbar:
     left:
       - href: index.qmd
