@@ -3,11 +3,12 @@ project:
   output-dir: docs
 
 website:
-  title: "WiDS Tucson"
+  favicon: images/logo.png
   navbar:
+    title: "WiDS Tucson"
+    logo: images/logo.png
+    logo-alt: "The wids head logo"
     left:
-      - href: index.qmd
-        text: Home
       - text: "Conference"
         menu: 
           - text: "2023"
@@ -16,6 +17,15 @@ website:
             href: Conference/conf2022.markdown
       - text: "Datathon"
         href: datathon.qmd
+    right:
+      - text: "Community"
+        menu:
+          - text: "Join the Community"
+            href: community.qmd
+          - text: "Code of Conduct"
+            href: conduct.qmd
+      - icon: github
+        href: https://github.com/wids-tucson/wids-tucson.github.io
 
 format:
   html:

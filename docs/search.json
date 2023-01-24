@@ -2,7 +2,7 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "WiDS Tucson",
+    "title": "",
     "section": "",
     "text": "WiDS Tucson is an independent event organized by the University of Arizona to coincide with the Global Women in Data Science (WiDS) Conference held at Stanford University and an estimated 200+ locations worldwide annually.\nThe Global WiDS Conference aims to inspire and educate data scientists worldwide, regardless of gender, and to support women in the field. This one-day technical conference provides an opportunity to hear about the latest data science related research and applications in a number of domains, and connect with others in the field."
   },
@@ -23,7 +23,7 @@
   {
     "objectID": "datathon.html",
     "href": "datathon.html",
-    "title": "WiDS Tucson",
+    "title": "",
     "section": "",
     "text": "⏰ 2:00-3:00pm MST\nThis hands-on workshop will prepare you to participate in the Global WiDS datathon. At the WiDS Tucson Datathon you will learn how to register to a Kaggle competition, prepare a solution for the competition with the Python programming language, and submit a Kaggle solution. Join us to participate in a Titanic themed, Machine Learning datathon aimed helping you to participate individually in the Global WiDS Datathon!\nIn this year’s Global WiDS Datathon, participants will use data science to improve longer-range weather forecasts to help people prepare and adapt to extreme weather events caused by climate change.\n\n\n\n\n\n\nRegister here!"
   },
@@ -40,5 +40,33 @@
     "title": "WiDS Tucson 2023",
     "section": "",
     "text": "TBD"
+  },
+  {
+    "objectID": "community.html",
+    "href": "community.html",
+    "title": "",
+    "section": "",
+    "text": "Sign up for the Annual Data Science Research Bazaar unConference (May 17-21!) to learn more data science skills\nAttend the Tuesday ‘Coffee & Code’ morning meetings with Research Bazaar to chat about coding and get help!\nAttent the Thursday ‘Hacky Hour’ meetings with Research Bazaar to discuss research, brainstorm new ideas, try out new technologies, or chit chat about data science!\nfollow the Data Science Institute Calendar to find out about new events\nFind specific resources for data management, data science & visualization, and geospatial data at the UA Data Cooperative \nContact your data science ambassador for discipline specific information\nBetter yet, if you’re a graduate student you should apply to become a data science ambassador for your college! deadline May 1st\nJoin the UA Office of Digital Innovation and Stewardship’s Data Management Listserv\nJoin the UA WiDS listserv\nJoin the UA Women in Stem listserv\nJoin the R-Ladies Tucson if you love R, no matter your skill-level\nJoin the Tucson Python Meet-up if you love Python, no matter your skill-level\n\nStill stuck on how to join the community? Any WiDS staff can help you find your place because you belong!"
+  },
+  {
+    "objectID": "conduct.html",
+    "href": "conduct.html",
+    "title": "Code of Conduct",
+    "section": "",
+    "text": "WiDS Tucson Meetings are an interactive environment for listening and considering new ideas from a diverse group, with respect for all participants without regard to gender, gender identity or expression, race, color, national or ethnic origin, religion or religious belief, age, marital status, sexual orientation, disabilities, veteran status, or any other aspect of how we identify ourselves. It is the policy of the WIDS Meeting that all participants will enjoy an environment free from all forms of discrimination, harassment, and retaliation.\nConsequently, individuals must use discretion to ensure that their words and actions communicate respect for others. This is especially important for those in positions of authority since individuals with lower rank or status may be reluctant to express their objections or discomfort regarding unwelcome behavior.\nSexual harassment does not refer to occasional compliments of a socially acceptable nature. It refers to behavior that is not welcome, is personally offensive, debilitates morale, and therefore, interferes with work effectiveness.\nThe following are examples of behavior that, when unwelcome, may constitute sexual harassment: sexual flirtations, advances, or propositions; verbal comments or physical actions of a sexual nature; sexually degrading words used to describe an individual; a display of sexually suggestive objects or pictures; sexually explicit jokes; unnecessary touching.\nHarassment on the basis of any other protected characteristic is also strictly prohibited. This conduct includes, but is not limited to the following: epithets, slurs, or negative stereotyping; threatening, intimidating, or hostile acts; denigrating jokes and display or circulation of written or graphic material that denigrates or shows hostility or aversion toward an individual or group.\nDiscrimination refers to bias or prejudice resulting in denial of opportunity, or unfair treatment regarding selection, promotion, or transfer. Discrimination is practiced commonly on the grounds of age, disability, ethnicity, origin, political belief, race, religion, sex, etc. factors which are irrelevant to a person’s competence or suitability.\nRetaliation refers to taking some action to negatively impact another based on them reporting an act of discrimination or harassment."
+  },
+  {
+    "objectID": "conduct.html#definition-of-sexual-harassment",
+    "href": "conduct.html#definition-of-sexual-harassment",
+    "title": "",
+    "section": "Definition of Sexual Harassment:",
+    "text": "Definition of Sexual Harassment:\nSexual harassment refers to unwelcome sexual advances, requests for sexual favors, and other verbal or physical conduct of a sexual nature. Behavior and language that are welcome/acceptable to one person may be unwelcome/offensive to another. Consequently, individuals must use discretion to ensure that their words and actions communicate respect for others. This is especially important for those in positions of authority since individuals with lower rank or status may be reluctant to express their objections or discomfort regarding unwelcome behavior.\nSexual harassment does not refer to occasional compliments of a socially acceptable nature. It refers to behavior that is not welcome, is personally offensive, debilitates morale, and therefore, interferes with work effectiveness. The following are examples of behavior that, when unwelcome, may constitute sexual harassment: sexual flirtations, advances, or propositions; verbal comments or physical actions of a sexual nature; sexually degrading words used to describe an individual; a display of sexually suggestive objects or pictures; sexually explicit jokes; unnecessary touching. ## Definition of Other Harassment: Harassment on the basis of any other protected characteristic is also strictly prohibited. This conduct includes, but is not limited to the following: epithets, slurs, or negative stereotyping; threatening, intimidating, or hostile acts; denigrating jokes and display or circulation of written or graphic material that denigrates or shows hostility or aversion toward an individual or group. ## Definition of Discrimination: Discrimination refers to bias or prejudice resulting in denial of opportunity, or unfair treatment regarding selection, promotion, or transfer. Discrimination is practiced commonly on the grounds of age, disability, ethnicity, origin, political belief, race, religion, sex, etc. factors which are irrelevant to a person’s competence or suitability. ## Definition of Retaliation: Retaliation refers to taking some action to negatively impact another based on them reporting an act of discrimination or harassment. ## Reporting an Incident: Violations of this code of conduct policy should be reported immediately to the Organizing Committee Members (email: wids.tucson at google dot com). All complaints will be treated seriously and be investigated promptly. Confidentiality will be honored to the extent permitted as long as the rights of others are not compromised. Sanctions may range from verbal warning, to the notification of appropriate authorities. Retaliation for complaints of inappropriate conduct will not be tolerated."
+  },
+  {
+    "objectID": "conduct.html#reporting-an-incident",
+    "href": "conduct.html#reporting-an-incident",
+    "title": "Code of Conduct",
+    "section": "Reporting an Incident:",
+    "text": "Reporting an Incident:\nViolations of this code of conduct policy should be reported immediately to the Organizing Committee Members (email: wids.tucson at google dot com). All complaints will be treated seriously and be investigated promptly. Confidentiality will be honored to the extent permitted as long as the rights of others are not compromised. Sanctions may range from verbal warning, to the notification of appropriate authorities. Retaliation for complaints of inappropriate conduct will not be tolerated."
   }
 ]
