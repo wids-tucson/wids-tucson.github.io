@@ -1,10 +1,6 @@
 ---
 title: WiDS Tucson 2022
 subtitle: April 22, 2022
-menu:
-  sessions_2022:
-    parent: Overview
-    weight: 1
 type: docs
 toc: false
 weight: 1
@@ -12,7 +8,7 @@ weight: 1
 
 # Speakers & Sessions 
 
-Navigate through tabs on the left sidebar to find out more information on the speakers and their talks or panels. Here's the list of sessions in chronological order:
+
 
 <table>
   <thead>

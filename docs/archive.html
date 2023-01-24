@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>community</title>
+<title>archive</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -31,6 +31,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
 <link href="./images/logo.png" rel="icon" type="image/png">
+<script src="site_libs/quarto-listing/list.min.js"></script>
+<script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -59,7 +61,37 @@ ul.task-list li input[type="checkbox"] {
     "search-submit-button-title": "Submit"
   }
 }</script>
+<script>
 
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-title','listing-author','listing-subtitle','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-title","listing-author","listing-subtitle","listing-description"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
+
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
 </head>
 
@@ -86,16 +118,16 @@ ul.task-list li input[type="checkbox"] {
     <a class="nav-link dropdown-toggle" href="#" id="nav-menu-conference" role="button" data-bs-toggle="dropdown" aria-expanded="false">Conference</a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-conference">    
         <li>
-    <a class="dropdown-item" href="./Conference/conf2023.html">
- <span class="dropdown-text">2023</span></a>
+    <a class="dropdown-item" href="./conf.html">
+ <span class="dropdown-text">About</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./Conference/conf2022.html">
- <span class="dropdown-text">2022</span></a>
+    <a class="dropdown-item" href="./conf2023.html">
+ <span class="dropdown-text">2023 Conference</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./Conference/conf2021.qmd">
- <span class="dropdown-text">2021</span></a>
+    <a class="dropdown-item" href="./archive.html">
+ <span class="dropdown-text">Meeting Archive</span></a>
   </li>  
     </ul>
   </li>
@@ -140,26 +172,35 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-<p>WiDS Tucson would not be possible without the amazing data science community at the University of Arizona and in the local Tucson community. If you’d like to get involved, here are some great ways:</p>
-<ul>
-<li>Sign up for the Annual <a href="https://researchbazaar.arizona.edu/resbaz/resbazTucson2022/"><b><i>Research Bazaar unConference</i></b></a> to learn more data science skills</li>
-<li>Attend <a href="http://researchbazaar.arizona.edu/"><b><i>‘Coffee &amp; Code’</i></b></a> virtually on Tuesday mornings with Research Bazaar Arizona to chat about coding and get help!</li>
-<li>Attend <a href="http://researchbazaar.arizona.edu/"><b><i>‘Hacky Hour’</i></b></a> on Thursdays on the Unviersity of Arizona campus at Snakes and Lattes with Research Bazaar Arizona. Discuss research, brainstorm new ideas, try out new technologies, or chit chat about data science with other community members!</li>
-<li>Follow the <a href="https://datascience.arizona.edu/calendar"><b><i>Data Science Institute Calendar</i></b></a> to find out about new data science events on campus</li>
-<li>Find specific resources for data management, data science &amp; visualization, and geospatial data at the <a href="https://data.library.arizona.edu/"><b><i>UA Data Cooperative </i></b></a></li>
-<li>Contact your college’s <a href="https://datascience.arizona.edu/ambassadors"><b><i>Data Science Ambassador</i></b></a> for discipline specific information</li>
-<li>Better yet, if you’re a graduate student, <a href="http://datascience.arizona.edu/ambassadors/data-science-ambassadors-program"><b><i>apply to become a data science ambassador</i></b></a> for your college! deadline May 1st</li>
-<li>Join the UA Office of Digital Innovation and Stewardship’s <a href="https://list.arizona.edu/sympa/info/data_management"><b><i>Data Management Listserv</i></b></a></li>
-<li>Join the <a href="https://list.arizona.edu/sympa/info/datasci-women"><b><i>UA WiDS listserv</i></b></a></li>
-<li>Join the <a href="https://list.arizona.edu/sympa/info/womeninstem"><b><i>UA Women in Stem listserv</i></b></a></li>
-<li>Join <a href="https://www.meetup.com/rladies-tucson-az/"><b><i>R-Ladies Tucson</i></b></a> if you love R, no matter your skill-level</li>
-<li>Join the <a href="https://www.meetup.com/Tucson-Python-Meetup/"><b><i>Tucson Python Meet-up</i></b></a> if you love Python, no matter your skill-level</li>
-</ul>
-<p>Still stuck on how to join the community? Any WiDS staff can help you find your place because you belong!</p>
 
 
 
-</main> <!-- /main -->
+
+<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
+<div class="list quarto-listing-default">
+<div class="quarto-post image-right" data-index="0" data-listing-file-modified-sort="1674601385681" data-listing-reading-time-sort="5.545">
+<div class="body">
+<a href="./archive/conf2022.html">
+<h3 class="no-anchor listing-title">
+WiDS Tucson 2022
+</h3>
+<div class="listing-subtitle">
+April 22, 2022
+</div>
+<div class="listing-description">
+
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./archive/conf2022.html"> </a>
+</div>
+</div>
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {

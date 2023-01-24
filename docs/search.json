@@ -16,16 +16,16 @@
   {
     "objectID": "conf.html",
     "href": "conf.html",
-    "title": "WiDS Tucson",
+    "title": "",
     "section": "",
-    "text": "This Tucson WIDS meeting aims to further build the community around women in Data Science. The meeting provides a forum for women to share technical information about their projects with each other, and community members; to explore innovative topics emerging in the software and data infrastructure communities; to discuss and learn about best practices across projects; and to stimulate new ideas of achieving software and data sustainability and new collaborations.\nWomen in the data science community are invited to present talks and posters on their projects. Anyone who is interested in attending the meeting is welcome and encouraged to do so.\nThere is no registration fee, but participants need to register by April 20th, 2023 at 12pm MST to allow for planning logistics. This meeting is virtual and will be hosted on Zoom. Participants are encouraged to move between Zoom meetings to maximize their own experience."
+    "text": "This Tucson WIDS meeting aims to further build the community around women in Data Science. The meeting provides a forum for women to share technical information about their projects with each other, and community members; to explore innovative topics emerging in the software and data infrastructure communities; to discuss and learn about best practices across projects; and to stimulate new ideas of achieving software and data sustainability and new collaborations.\nWomen in the data science community are invited to present talks and posters on their projects. Anyone who is interested in attending the meeting is welcome and encouraged to do so.\nThere is no registration fee, but participants need to register by April 20th, 2023 at 12pm MST to allow for planning logistics. This meeting is virtual and will be hosted on Zoom. Participants are encouraged to move between Zoom meetings to maximize their own experience.\nFind past meeting agendas in Meeting Archive."
   },
   {
     "objectID": "datathon.html",
     "href": "datathon.html",
     "title": "",
     "section": "",
-    "text": "⏰ 2:00-3:00pm MST\nThis hands-on workshop will prepare you to participate in the Global WiDS datathon. At the WiDS Tucson Datathon you will learn how to register to a Kaggle competition, prepare a solution for the competition with the Python programming language, and submit a Kaggle solution. Join us to participate in a Titanic themed, Machine Learning datathon aimed helping you to participate individually in the Global WiDS Datathon!\nIn this year’s Global WiDS Datathon, participants will use data science to improve longer-range weather forecasts to help people prepare and adapt to extreme weather events caused by climate change.\n\n\n\n\n\n\nRegister here!"
+    "text": "⏰ 2:00-3:00pm MST\n\n\nThis hands-on workshop will prepare you to participate in the Global WiDS datathon. At the WiDS Tucson Datathon you will learn how to register to a Kaggle competition, prepare a solution for the competition with the Python programming language, and submit a Kaggle solution. Join us to participate in a Titanic themed, Machine Learning datathon aimed helping you to participate individually in the Global WiDS Datathon!\nIn this year’s Global WiDS Datathon, participants will use data science to improve longer-range weather forecasts to help people prepare and adapt to extreme weather events caused by climate change.\n\n\n\n\n\n\nRegister here!"
   },
   {
     "objectID": "Conference/conf2022.html",
@@ -46,7 +46,7 @@
     "href": "community.html",
     "title": "",
     "section": "",
-    "text": "Sign up for the Annual Data Science Research Bazaar unConference (May 17-21!) to learn more data science skills\nAttend the Tuesday ‘Coffee & Code’ morning meetings with Research Bazaar to chat about coding and get help!\nAttent the Thursday ‘Hacky Hour’ meetings with Research Bazaar to discuss research, brainstorm new ideas, try out new technologies, or chit chat about data science!\nfollow the Data Science Institute Calendar to find out about new events\nFind specific resources for data management, data science & visualization, and geospatial data at the UA Data Cooperative \nContact your data science ambassador for discipline specific information\nBetter yet, if you’re a graduate student you should apply to become a data science ambassador for your college! deadline May 1st\nJoin the UA Office of Digital Innovation and Stewardship’s Data Management Listserv\nJoin the UA WiDS listserv\nJoin the UA Women in Stem listserv\nJoin the R-Ladies Tucson if you love R, no matter your skill-level\nJoin the Tucson Python Meet-up if you love Python, no matter your skill-level\n\nStill stuck on how to join the community? Any WiDS staff can help you find your place because you belong!"
+    "text": "Sign up for the Annual Research Bazaar unConference to learn more data science skills\nAttend ‘Coffee & Code’ virtually on Tuesday mornings with Research Bazaar Arizona to chat about coding and get help!\nAttend ‘Hacky Hour’ on Thursdays on the Unviersity of Arizona campus at Snakes and Lattes with Research Bazaar Arizona. Discuss research, brainstorm new ideas, try out new technologies, or chit chat about data science with other community members!\nFollow the Data Science Institute Calendar to find out about new data science events on campus\nFind specific resources for data management, data science & visualization, and geospatial data at the UA Data Cooperative \nContact your college’s Data Science Ambassador for discipline specific information\nBetter yet, if you’re a graduate student, apply to become a data science ambassador for your college! deadline May 1st\nJoin the UA Office of Digital Innovation and Stewardship’s Data Management Listserv\nJoin the UA WiDS listserv\nJoin the UA Women in Stem listserv\nJoin R-Ladies Tucson if you love R, no matter your skill-level\nJoin the Tucson Python Meet-up if you love Python, no matter your skill-level\n\nStill stuck on how to join the community? Any WiDS staff can help you find your place because you belong!"
   },
   {
     "objectID": "conduct.html",
@@ -68,5 +68,54 @@
     "title": "Code of Conduct",
     "section": "Reporting an Incident:",
     "text": "Reporting an Incident:\nViolations of this code of conduct policy should be reported immediately to the Organizing Committee Members (email: wids.tucson at google dot com). All complaints will be treated seriously and be investigated promptly. Confidentiality will be honored to the extent permitted as long as the rights of others are not compromised. Sanctions may range from verbal warning, to the notification of appropriate authorities. Retaliation for complaints of inappropriate conduct will not be tolerated."
+  },
+  {
+    "objectID": "Conference/conf2021.html",
+    "href": "Conference/conf2021.html",
+    "title": "Speakers & Sessions",
+    "section": "",
+    "text": "Navigate through tabs on the left sidebar to find out more information on the speakers and their talks or panels. If you navigate to the Program tab on the top, you can see the talks listed in chronological order."
+  },
+  {
+    "objectID": "Conference/conf.html",
+    "href": "Conference/conf.html",
+    "title": "",
+    "section": "",
+    "text": "⏰ TBD MST\n\nThis Tucson WIDS meeting aims to further build the community around women in Data Science. The meeting provides a forum for women to share technical information about their projects with each other, and community members; to explore innovative topics emerging in the software and data infrastructure communities; to discuss and learn about best practices across projects; and to stimulate new ideas of achieving software and data sustainability and new collaborations.\nWomen in the data science community are invited to present talks and posters on their projects. Anyone who is interested in attending the meeting is welcome and encouraged to do so.\nThere is no registration fee, but participants need to register by April 21st, 2022 at 12pm MST to allow for planning logistics. This meeting is virtual and will be hosted on Zoom. Participants are encouraged to move between Zoom meetings to maximize their own experience."
+  },
+  {
+    "objectID": "ConferenceArchive/conf2022.html",
+    "href": "ConferenceArchive/conf2022.html",
+    "title": "WiDS Tucson 2022",
+    "section": "",
+    "text": "Navigate through tabs on the left sidebar to find out more information on the speakers and their talks or panels. Here’s the list of sessions in chronological order:\n\n\n\n\n\nTime\n\n\nTalk Title\n\n\nSpeaker(s)\n\n\nZoom Link\n\n\n\n\n\n\n8:45am to 9:00am\n\n\nOpening\n\n\nAdriana Picoral\n\n\nRoom A: https://arizona.zoom.us/j/82893028084\n\n\n\n\n9:00am to 9:45am\n\n\nKeynote\n\n\nGabriela de Queiroz\n\n\nRoom A: https://arizona.zoom.us/j/82893028084\n\n\n\n\nConcurrent Talks Morning 1\n\n\n\n\n9:50am to 10:05am\n\n\nData Rescue: Saving Environmental Data from Extinction\n\n\nEllen Bledsoe\n\n\nRoom A: https://arizona.zoom.us/j/82893028084\n\n\n\n\n9:50am to 10:05am\n\n\nData-driven and student-centered: Leveraging institutional data in higher education for policy change\n\n\nSarah Kyte\n\n\nRoom B: https://arizona.zoom.us/j/85853369180\n\n\n\n\nConcurrent Talks Morning 2\n\n\n\n\n10:10am to 10:25am\n\n\nMapping flood risk from space\n\n\nBeth Tellman\n\n\nRoom A: https://arizona.zoom.us/j/82893028084\n\n\n\n\n10:10am to 10:25am\n\n\nData Science in the Pursuit of Precision Medicine in Warfarin Therapy\n\n\nHeidi Steiner\n\n\nRoom B: https://arizona.zoom.us/j/85853369180\n\n\n\n\nData Blitz\n\n\n\n\n10:30am to 11:10am\n\n\nMorning Data Blitz\n\n\nMultiple\n\n\nRoom A: https://arizona.zoom.us/j/82893028084\n\n\n\n\nMorning Panels\n\n\n\n\n11:20am to 12:20pm\n\n\nComputational Social Sciences\n\n\nKarina Salazar Kendra Thompson-Dyck Beth Tellman Cas Laskowski\n\n\nRoom A: https://arizona.zoom.us/j/82893028084\n\n\n\n\n11:20am to 12:20pm\n\n\nLife and Work Balance in Data Science\n\n\nKathryn Barger Lise-Marie Imbert-Gerard Cindy Davis, MPH, RDN Frances Miller\n\n\nRoom B: https://arizona.zoom.us/j/85853369180\n\n\n\n\nLUNCH BREAK 12:20pm to 1:00pm\n\n\n\n\nConcurrent Talks Afternoon 1\n\n\n\n\n1:00pm to 1:15pm\n\n\nData Challenges and Opportunities in Natural Disaster Economics and Policy\n\n\nLaura A. Bakkensen\n\n\nRoom A: https://arizona.zoom.us/j/82893028084\n\n\n\n\n1:00pm to 1:15pm\n\n\nAI Applications for Sustainable Mining\n\n\nNathalie Risso\n\n\nRoom B: https://arizona.zoom.us/j/85853369180\n\n\n\n\nConcurrent Talks Afternoon 2\n\n\n\n\n1:25pm to 1:40pm\n\n\nVisual Representation of Quality Metrics\n\n\nDianne Patterson\n\n\nRoom A: https://arizona.zoom.us/j/82893028084\n\n\n\n\n1:25pm to 1:40pm\n\n\nSimultaneously Understanding Individual Connection and Neural Network Differences Between Groups: Simulation Pipeline and Algorithm Development\n\n\nJulia Fisher\n\n\nRoom B: https://arizona.zoom.us/j/85853369180\n\n\n\n\nData Blitz\n\n\n\n\n1:45pm to 2:15pm\n\n\nAfternoon Data Blitz\n\n\nMultiple\n\n\nRoom A: https://arizona.zoom.us/j/82893028084\n\n\n\n\nAfternoon Panels\n\n\n\n\n2:30pm to 3:30pm\n\n\nData Science Industry\n\n\nJenn Schilling Joana M. F. da Trindade Sasha Lavrentovich Kelsey Gonzalez\n\n\nRoom A: https://arizona.zoom.us/j/82893028084\n\n\n\n\n2:30pm to 3:30pm\n\n\nOutreach in Data Science\n\n\nJill Williams Margaret Wilch Adriana Picoral\n\n\nRoom B: https://arizona.zoom.us/j/85853369180\n\n\n\n\nClosing\n\n\n\n\n3:35pm to 3:50pm\n\n\nAwards & Closing Remarks\n\n\nAdriana Picoral\n\n\nRoom A: https://arizona.zoom.us/j/82893028084\n\n\n\n\n4:30pm\n\n\nHappy Hour\n\n\nBorderlands Brewing Company, 119 E Toole Ave, Tucson, AZ 85701"
+  },
+  {
+    "objectID": "archive.html",
+    "href": "archive.html",
+    "title": "",
+    "section": "",
+    "text": "April 22, 2022\n\n\n\n\n\n\n\n \n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "archive/conf2022.html",
+    "href": "archive/conf2022.html",
+    "title": "WiDS Tucson 2022",
+    "section": "",
+    "text": "Time\n\n\nTalk Title\n\n\nSpeaker(s)\n\n\nZoom Link\n\n\n\n\n\n\n8:45am to 9:00am\n\n\nOpening\n\n\nAdriana Picoral\n\n\nRoom A: https://arizona.zoom.us/j/82893028084\n\n\n\n\n9:00am to 9:45am\n\n\nKeynote\n\n\nGabriela de Queiroz\n\n\nRoom A: https://arizona.zoom.us/j/82893028084\n\n\n\n\nConcurrent Talks Morning 1\n\n\n\n\n9:50am to 10:05am\n\n\nData Rescue: Saving Environmental Data from Extinction\n\n\nEllen Bledsoe\n\n\nRoom A: https://arizona.zoom.us/j/82893028084\n\n\n\n\n9:50am to 10:05am\n\n\nData-driven and student-centered: Leveraging institutional data in higher education for policy change\n\n\nSarah Kyte\n\n\nRoom B: https://arizona.zoom.us/j/85853369180\n\n\n\n\nConcurrent Talks Morning 2\n\n\n\n\n10:10am to 10:25am\n\n\nMapping flood risk from space\n\n\nBeth Tellman\n\n\nRoom A: https://arizona.zoom.us/j/82893028084\n\n\n\n\n10:10am to 10:25am\n\n\nData Science in the Pursuit of Precision Medicine in Warfarin Therapy\n\n\nHeidi Steiner\n\n\nRoom B: https://arizona.zoom.us/j/85853369180\n\n\n\n\nData Blitz\n\n\n\n\n10:30am to 11:10am\n\n\nMorning Data Blitz\n\n\nMultiple\n\n\nRoom A: https://arizona.zoom.us/j/82893028084\n\n\n\n\nMorning Panels\n\n\n\n\n11:20am to 12:20pm\n\n\nComputational Social Sciences\n\n\nKarina Salazar Kendra Thompson-Dyck Beth Tellman Cas Laskowski\n\n\nRoom A: https://arizona.zoom.us/j/82893028084\n\n\n\n\n11:20am to 12:20pm\n\n\nLife and Work Balance in Data Science\n\n\nKathryn Barger Lise-Marie Imbert-Gerard Cindy Davis, MPH, RDN Frances Miller\n\n\nRoom B: https://arizona.zoom.us/j/85853369180\n\n\n\n\nLUNCH BREAK 12:20pm to 1:00pm\n\n\n\n\nConcurrent Talks Afternoon 1\n\n\n\n\n1:00pm to 1:15pm\n\n\nData Challenges and Opportunities in Natural Disaster Economics and Policy\n\n\nLaura A. Bakkensen\n\n\nRoom A: https://arizona.zoom.us/j/82893028084\n\n\n\n\n1:00pm to 1:15pm\n\n\nAI Applications for Sustainable Mining\n\n\nNathalie Risso\n\n\nRoom B: https://arizona.zoom.us/j/85853369180\n\n\n\n\nConcurrent Talks Afternoon 2\n\n\n\n\n1:25pm to 1:40pm\n\n\nVisual Representation of Quality Metrics\n\n\nDianne Patterson\n\n\nRoom A: https://arizona.zoom.us/j/82893028084\n\n\n\n\n1:25pm to 1:40pm\n\n\nSimultaneously Understanding Individual Connection and Neural Network Differences Between Groups: Simulation Pipeline and Algorithm Development\n\n\nJulia Fisher\n\n\nRoom B: https://arizona.zoom.us/j/85853369180\n\n\n\n\nData Blitz\n\n\n\n\n1:45pm to 2:15pm\n\n\nAfternoon Data Blitz\n\n\nMultiple\n\n\nRoom A: https://arizona.zoom.us/j/82893028084\n\n\n\n\nAfternoon Panels\n\n\n\n\n2:30pm to 3:30pm\n\n\nData Science Industry\n\n\nJenn Schilling Joana M. F. da Trindade Sasha Lavrentovich Kelsey Gonzalez\n\n\nRoom A: https://arizona.zoom.us/j/82893028084\n\n\n\n\n2:30pm to 3:30pm\n\n\nOutreach in Data Science\n\n\nJill Williams Margaret Wilch Adriana Picoral\n\n\nRoom B: https://arizona.zoom.us/j/85853369180\n\n\n\n\nClosing\n\n\n\n\n3:35pm to 3:50pm\n\n\nAwards & Closing Remarks\n\n\nAdriana Picoral\n\n\nRoom A: https://arizona.zoom.us/j/82893028084\n\n\n\n\n4:30pm\n\n\nHappy Hour\n\n\nBorderlands Brewing Company, 119 E Toole Ave, Tucson, AZ 85701"
+  },
+  {
+    "objectID": "conf2023.html",
+    "href": "conf2023.html",
+    "title": "",
+    "section": "",
+    "text": "⏰ TBD MST"
+  },
+  {
+    "objectID": "conference.html",
+    "href": "conference.html",
+    "title": "",
+    "section": "",
+    "text": "This Tucson WIDS meeting aims to further build the community around women in Data Science. The meeting provides a forum for women to share technical information about their projects with each other, and community members; to explore innovative topics emerging in the software and data infrastructure communities; to discuss and learn about best practices across projects; and to stimulate new ideas of achieving software and data sustainability and new collaborations.\nWomen in the data science community are invited to present talks and posters on their projects. Anyone who is interested in attending the meeting is welcome and encouraged to do so.\nThere is no registration fee, but participants need to register by April 20th, 2023 at 12pm MST to allow for planning logistics. This meeting is virtual and will be hosted on Zoom. Participants are encouraged to move between Zoom meetings to maximize their own experience."
   }
 ]

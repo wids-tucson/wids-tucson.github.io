@@ -16,6 +16,7 @@ $navbar-hl: $light-green;
 $body-color: $gray;
 $footer-bg: $purple; 
 $link-color: $dark-green;
+$callout-color-important: $purple;
 
 /*-- scss:rules --*/
 
