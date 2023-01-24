@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "wids-tucson.github.io",
+    "title": "WiDS Tucson",
     "section": "",
-    "text": "To learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "WiDS Tucson is an independent event organized by the University of Arizona to coincide with the Global Women in Data Science (WiDS) Conference held at Stanford University and an estimated 200+ locations worldwide annually.\nThe Global WiDS Conference aims to inspire and educate data scientists worldwide, regardless of gender, and to support women in the field. This one-day technical conference provides an opportunity to hear about the latest data science related research and applications in a number of domains, and connect with others in the field."
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,33 @@
     "title": "About",
     "section": "",
     "text": "About this site"
+  },
+  {
+    "objectID": "conf.html",
+    "href": "conf.html",
+    "title": "WiDS Tucson",
+    "section": "",
+    "text": "This Tucson WIDS meeting aims to further build the community around women in Data Science. The meeting provides a forum for women to share technical information about their projects with each other, and community members; to explore innovative topics emerging in the software and data infrastructure communities; to discuss and learn about best practices across projects; and to stimulate new ideas of achieving software and data sustainability and new collaborations.\nWomen in the data science community are invited to present talks and posters on their projects. Anyone who is interested in attending the meeting is welcome and encouraged to do so.\nThere is no registration fee, but participants need to register by April 20th, 2023 at 12pm MST to allow for planning logistics. This meeting is virtual and will be hosted on Zoom. Participants are encouraged to move between Zoom meetings to maximize their own experience."
+  },
+  {
+    "objectID": "datathon.html",
+    "href": "datathon.html",
+    "title": "WiDS Tucson",
+    "section": "",
+    "text": "⏰ 2:00-3:00pm MST\nThis hands-on workshop will prepare you to participate in the Global WiDS datathon. At the WiDS Tucson Datathon you will learn how to register to a Kaggle competition, prepare a solution for the competition with the Python programming language, and submit a Kaggle solution. Join us to participate in a Titanic themed, Machine Learning datathon aimed helping you to participate individually in the Global WiDS Datathon!\nIn this year’s Global WiDS Datathon, participants will use data science to improve longer-range weather forecasts to help people prepare and adapt to extreme weather events caused by climate change.\n\n\n\n\n\n\nRegister here!"
+  },
+  {
+    "objectID": "Conference/conf2022.html",
+    "href": "Conference/conf2022.html",
+    "title": "WiDS Tucson 2022",
+    "section": "",
+    "text": "Navigate through tabs on the left sidebar to find out more information on the speakers and their talks or panels. Here’s the list of sessions in chronological order:\n\n\n\n\n\nTime\n\n\nTalk Title\n\n\nSpeaker(s)\n\n\nZoom Link\n\n\n\n\n\n\n8:45am to 9:00am\n\n\nOpening\n\n\nAdriana Picoral\n\n\nRoom A: https://arizona.zoom.us/j/82893028084\n\n\n\n\n9:00am to 9:45am\n\n\nKeynote\n\n\nGabriela de Queiroz\n\n\nRoom A: https://arizona.zoom.us/j/82893028084\n\n\n\n\nConcurrent Talks Morning 1\n\n\n\n\n9:50am to 10:05am\n\n\nData Rescue: Saving Environmental Data from Extinction\n\n\nEllen Bledsoe\n\n\nRoom A: https://arizona.zoom.us/j/82893028084\n\n\n\n\n9:50am to 10:05am\n\n\nData-driven and student-centered: Leveraging institutional data in higher education for policy change\n\n\nSarah Kyte\n\n\nRoom B: https://arizona.zoom.us/j/85853369180\n\n\n\n\nConcurrent Talks Morning 2\n\n\n\n\n10:10am to 10:25am\n\n\nMapping flood risk from space\n\n\nBeth Tellman\n\n\nRoom A: https://arizona.zoom.us/j/82893028084\n\n\n\n\n10:10am to 10:25am\n\n\nData Science in the Pursuit of Precision Medicine in Warfarin Therapy\n\n\nHeidi Steiner\n\n\nRoom B: https://arizona.zoom.us/j/85853369180\n\n\n\n\nData Blitz\n\n\n\n\n10:30am to 11:10am\n\n\nMorning Data Blitz\n\n\nMultiple\n\n\nRoom A: https://arizona.zoom.us/j/82893028084\n\n\n\n\nMorning Panels\n\n\n\n\n11:20am to 12:20pm\n\n\nComputational Social Sciences\n\n\nKarina Salazar Kendra Thompson-Dyck Beth Tellman Cas Laskowski\n\n\nRoom A: https://arizona.zoom.us/j/82893028084\n\n\n\n\n11:20am to 12:20pm\n\n\nLife and Work Balance in Data Science\n\n\nKathryn Barger Lise-Marie Imbert-Gerard Cindy Davis, MPH, RDN Frances Miller\n\n\nRoom B: https://arizona.zoom.us/j/85853369180\n\n\n\n\nLUNCH BREAK 12:20pm to 1:00pm\n\n\n\n\nConcurrent Talks Afternoon 1\n\n\n\n\n1:00pm to 1:15pm\n\n\nData Challenges and Opportunities in Natural Disaster Economics and Policy\n\n\nLaura A. Bakkensen\n\n\nRoom A: https://arizona.zoom.us/j/82893028084\n\n\n\n\n1:00pm to 1:15pm\n\n\nAI Applications for Sustainable Mining\n\n\nNathalie Risso\n\n\nRoom B: https://arizona.zoom.us/j/85853369180\n\n\n\n\nConcurrent Talks Afternoon 2\n\n\n\n\n1:25pm to 1:40pm\n\n\nVisual Representation of Quality Metrics\n\n\nDianne Patterson\n\n\nRoom A: https://arizona.zoom.us/j/82893028084\n\n\n\n\n1:25pm to 1:40pm\n\n\nSimultaneously Understanding Individual Connection and Neural Network Differences Between Groups: Simulation Pipeline and Algorithm Development\n\n\nJulia Fisher\n\n\nRoom B: https://arizona.zoom.us/j/85853369180\n\n\n\n\nData Blitz\n\n\n\n\n1:45pm to 2:15pm\n\n\nAfternoon Data Blitz\n\n\nMultiple\n\n\nRoom A: https://arizona.zoom.us/j/82893028084\n\n\n\n\nAfternoon Panels\n\n\n\n\n2:30pm to 3:30pm\n\n\nData Science Industry\n\n\nJenn Schilling Joana M. F. da Trindade Sasha Lavrentovich Kelsey Gonzalez\n\n\nRoom A: https://arizona.zoom.us/j/82893028084\n\n\n\n\n2:30pm to 3:30pm\n\n\nOutreach in Data Science\n\n\nJill Williams Margaret Wilch Adriana Picoral\n\n\nRoom B: https://arizona.zoom.us/j/85853369180\n\n\n\n\nClosing\n\n\n\n\n3:35pm to 3:50pm\n\n\nAwards & Closing Remarks\n\n\nAdriana Picoral\n\n\nRoom A: https://arizona.zoom.us/j/82893028084\n\n\n\n\n4:30pm\n\n\nHappy Hour\n\n\nBorderlands Brewing Company, 119 E Toole Ave, Tucson, AZ 85701"
+  },
+  {
+    "objectID": "Conference/conf2023.html",
+    "href": "Conference/conf2023.html",
+    "title": "WiDS Tucson 2023",
+    "section": "",
+    "text": "TBD"
   }
 ]

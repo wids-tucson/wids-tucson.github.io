@@ -1,0 +1,19 @@
+---
+toc: false
+format: html
+editor: visual
+---
+
+🗓️ A to-be-determined Friday in February 2023
+
+⏰ 2:00-3:00pm MST
+
+This hands-on workshop will prepare you to participate in the [Global WiDS datathon](https://www.widsconference.org/datathon.html). At the **WiDS Tucson Datathon** you will learn how to register to a Kaggle competition, prepare a solution for the competition with the Python programming language, and submit a Kaggle solution. Join us to participate in a **Titanic themed, Machine Learning datathon** aimed helping you to participate individually in the Global WiDS Datathon!
+
+In this year's **Global WiDS Datathon**, participants will use data science to improve longer-range weather forecasts to help people prepare and adapt to extreme weather events caused by climate change.
+
+::: callout-important
+## [Register here](https://bit.ly/datathon-workshop-2023)!
+:::
+
+![](images/WiDS-datathon-headshots.png){fig-alt="WiDS Tucson Datathon flyer featuring headshots of both instructors and large green stripes" fig-align="center"}

@@ -8,11 +8,18 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - text: "Conference"
+        menu: 
+          - text: "2023"
+            href: Conference/conf2023.qmd
+          - text: "2022"
+            href: Conference/conf2022.markdown
+      - text: "Datathon"
+        href: datathon.qmd
 
 format:
   html:
-    theme: cosmo
+    theme: pulse
     css: styles.css
     toc: true
 
