@@ -34,7 +34,6 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
@@ -61,7 +60,6 @@ ul.task-list li input[type="checkbox"] {
 }</script>
 
 
-<link rel="stylesheet" href="styles.css">
 </head>
 
 <body class="nav-fixed fullcontent">
@@ -131,28 +129,33 @@ ul.task-list li input[type="checkbox"] {
 <!-- margin-sidebar -->
     
 <!-- main -->
-<main class="content" id="quarto-document-content">
-
-
-
-<section id="women-in-data-science-tucson" class="level1">
-<h1>Women in Data Science Tucson</h1>
-<section id="advancing-women-in-data-science" class="level3">
-<h3 class="anchored" data-anchor-id="advancing-women-in-data-science">Advancing Women in Data Science</h3>
-<div class="columns">
-<div class="column" style="width: 47%">
-<p><img src="images/wids-matrix-stacked.png" class="img-fluid"></p>
-</div><div class="column" style="width: 43%">
-<p>WiDS Tucson is an independent event organized by the University of Arizona to coincide with the Global Women in Data Science (WiDS) Conference held at Stanford University and an estimated 200+ locations worldwide annually.</p>
+<div class="quarto-about-trestles">
+  <div class="about-entity">
+    <img src="images/wids-matrix-stacked.png" class="about-image
+  rounded " style="width: 16em;">
+    <div class="about-links">
+  <a href="https://twitter.com/WidsTucson" class="about-link">
+    <i class="bi bi-twitter"></i>
+     <span class="about-link-text">Twitter</span>
+  </a>
+  <a href="https://github.com/wids-tucson" class="about-link">
+    <i class="bi bi-github"></i>
+     <span class="about-link-text">GitHub</span>
+  </a>
+  <a href="/wids.tucson@gmail.com" class="about-link">
+    <i class="bi bi-envelope"></i>
+     <span class="about-link-text">Email</span>
+  </a>
+</div>
+  </div>
+  <div class="about-contents"><main class="content" id="quarto-document-content">
+<p>Women in Data Science (WiDS) Tucson is an independent event organized by the University of Arizona to coincide with the Global WiDS Conference held at Stanford University and an estimated 200+ locations worldwide annually.</p>
 <p>The Global WiDS Conference aims to inspire and educate data scientists worldwide, regardless of gender, and to support women in the field. This one-day technical conference provides an opportunity to hear about the latest data science related research and applications in a number of domains, and connect with others in the field.</p>
+
+
+</main></div>
 </div>
-</div>
-
-
-</section>
-</section>
-
-</main> <!-- /main -->
+ <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -173,13 +176,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
   toggleBodyColorPrimary();  
-  const icon = "";
-  const anchorJS = new window.AnchorJS();
-  anchorJS.options = {
-    placement: 'right',
-    icon: icon
-  };
-  anchorJS.add('.anchored');
   const clipboard = new window.ClipboardJS('.code-copy-button', {
     target: function(trigger) {
       return trigger.previousElementSibling;

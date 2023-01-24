@@ -61,7 +61,6 @@ ul.task-list li input[type="checkbox"] {
 }</script>
 
 
-<link rel="stylesheet" href="styles.css">
 </head>
 
 <body class="nav-fixed fullcontent">
@@ -101,8 +100,23 @@ ul.task-list li input[type="checkbox"] {
   </li>  
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
-  <li class="nav-item">
-    <a class="nav-link" href="./community.html">Join the Community</a>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-community" role="button" data-bs-toggle="dropdown" aria-expanded="false">Community</a>
+    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-community">    
+        <li>
+    <a class="dropdown-item" href="./community.html">
+ <span class="dropdown-text">Join the Community</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./conduct.html">
+ <span class="dropdown-text">Code of Conduct</span></a>
+  </li>  
+    </ul>
+  </li>
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://github.com/wids-tucson/wids-tucson.github.io"><i class="bi bi-github" role="img">
+</i> 
+ </a>
   </li>  
 </ul>
               <div id="quarto-search" class="" title="Search"></div>

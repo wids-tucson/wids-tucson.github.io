@@ -29,8 +29,7 @@ website:
 
 format:
   html:
-    theme: pulse
-    css: styles.css
+    theme: styles.css
     toc: true
 
 

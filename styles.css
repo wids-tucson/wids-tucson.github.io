@@ -1,1 +1,39 @@
-/* css styles */
+/*-- scss:defaults --*/
+
+
+// Colors
+$green: #03AE43;
+$light-green: #D0E9D9;
+$dark-green: #104911;
+$gray: #C1C1C1;
+$purple: #8F6593;
+$black: #000000;
+
+
+// Base document colors
+$navbar-bg: $green;
+$navbar-hl: $light-green; 
+$body-color: $gray;
+$footer-bg: $purple; 
+$link-color: $dark-green;
+
+/*-- scss:rules --*/
+
+/* ELEMENT SELECTORS */
+
+h1, h2, h3, h4, h5, h6 {
+  letter-spacing: 5px;
+  font-weight: 700;
+  color: $black;
+}
+
+h3 {
+  font-size: 35px;
+}
+
+body {
+  line-height: 1.5; // min 1.5 suggested for assistive tech
+  font-size: 19.5px;
+  color: $dark-green;
+}
+

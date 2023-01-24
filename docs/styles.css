@@ -1,1 +1,101 @@
-/* css styles */
+/*-- scss:defaults --*/
+
+
+// Colors
+$green: #03AE43;
+$light-green: #D0E9D9;
+$dark-green: #104911;
+$gray: #C1C1C1;
+$purple: #8F6593;
+$black: #000000;
+
+
+// Base document colors
+$navbar-bg: $light-green;
+$navbar-fg: $dark-green; 
+$navbar-hl: $purple; 
+$body-bg: $green;
+$body-color: $gray;
+$footer-bg: $purple; 
+$link-color: $dark-green;
+
+// Inline code
+$code-bg: $gray;
+$code-color: $green; //$light-green; 
+
+// Code blocks
+$code-block-bg: $light-green;
+
+/*-- scss:rules --*/
+
+/* ELEMENT SELECTORS */
+
+h1, h2, h3, h4, h5, h6 {
+  letter-spacing: 5px;
+  font-weight: 700;
+  color: $black;
+}
+
+h3 {
+  font-size: 35px;
+}
+
+body {
+  line-height: 1.5; // min 1.5 suggested for assistive tech
+  font-size: 19.5px;
+}
+
+/* CLASS SELECTORS (self-defined) */
+
+.custom-subtitle {
+  font-size: 22px;
+  margin-bottom: 0.15em;
+}
+
+.custom-subtitle2 {
+  font-size: 20px;
+  font-style: italic;
+}
+
+.topbr {
+    display: block;
+    margin-top: 1em;
+}
+
+.center {
+  text-align: center;
+  left: 50%;
+}
+
+.container {
+  display: flex;
+}
+
+.button-styling {
+  background: $light-green;
+  border-color: $gray;
+  color: $gray;
+  border-radius: 0.6rem;
+  border-width: thin;
+  font-size: 18px;
+  letter-spacing: 3px;
+  padding-top: 2px;
+  padding-bottom: 2px;
+  padding-right: 6px;
+  padding-left: 6px;
+  transition-duration: 0.4s;
+}
+
+.button-styling:hover {
+  background-color: $light-green; 
+}
+
+
+
+
+.gray-italic {
+  color: $gray;
+  font-style: italic;
+  font-size: 17px;
+}
+
