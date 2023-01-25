@@ -13,9 +13,8 @@ $black: #000000;
 // Base document colors
 $navbar-bg: $green;
 $navbar-hl: $light-green; 
-$body-color: $gray;
 $footer-bg: $purple; 
-$link-color: $dark-green;
+$link-color: $green;
 $callout-color-important: $purple;
 
 /*-- scss:rules --*/
