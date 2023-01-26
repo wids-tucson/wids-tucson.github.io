@@ -4,7 +4,7 @@ format: html
 editor: visual
 ---
 
-#### 🗓️ A to-be-determined Friday in February 2023
+#### 🗓️ Friday, February 17, 2023
 
 #### ⏰ 2:00-3:00pm MST
 
@@ -18,4 +18,4 @@ In this year's **Global WiDS Datathon**, participants will use data science to i
 ## [Register here](https://bit.ly/datathon-workshop-2023)!
 :::
 
-![](images/WiDS-datathon-headshots.png){fig-alt="WiDS Tucson Datathon flyer featuring headshots of both instructors and large green stripes" fig-align="center"}
+![](images/WiDS-Tucson-Datathon.png){fig-alt="WiDS Tucson Datathon Flier featuring WiDS Tucson logo, headshots of two speakers, and a QR code to register" fig-align="center"}
