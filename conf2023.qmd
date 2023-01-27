@@ -4,6 +4,6 @@ format: html
 editor: visual
 ---
 
-#### 🗓 April 21st, 2023
+#### 🗓 Thursday, April 20th, 2023
 
 #### ⏰ TBD MST
