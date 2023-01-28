@@ -1,0 +1,27 @@
+---
+title: WiDS Tucson 2021
+type: docs
+toc: false
+weight: 1
+description: Virtual Conference Speakers & Sessions
+---
+
+
+| Time      | Title | Speaker    | 
+| :---        |    :----:   |          :---: | 
+| 9:15      | [Keynote](conf2021/keynote.markdown)       | Sudha Ram   |  
+| 9:50   | [Subtask Analysis of Process Data Through a Predictive Model](conf2021/rm1-talk-1.markdown)    | Xueying Tang      | 
+| 10:10 | [Meta-analysis of Transcranial Magnetic Stimulation Studies in Neurodegenerative Disorders](conf2021/rm1-talk-2.markdown) | Ying-hui Chou | 
+| 10:35 | [Morning Data Blitz](conf2021/data-blitz1.markdown) |  Many Talented Speakers  | 
+| 11:20 | [Panel on Data Ethics](conf2021/panel-1a.markdown)  | Hong Cui, Natasha Warner, Sonja Lanehart with: Elliot Truslow  | 
+| 11:20 | [Panel on Balance](conf2021/panel-1b.markdown)  | Liling Chang, Martha Whitaker, Jennifer Nichols, Leah Kapa with: Laleh Cote  | 
+| 11:50 | [Morning Netowrking on Ethical Challenges in Open Science and Data Sharing](conf2021/network-1.markdown) | YOU!  | 
+| 11:50 | [Morning Netowrking on Data science communities and social support](conf2021/network-1.markdown) | YOU!  |
+| 1:45  | [Afternoon Data Blitz](conf2021/data-blitz2.markdown)  | Many Talented Speakers  | 
+| 2:35  | [Panel on Transferable skills for industry](conf2021/panel-2a.markdown) | Calline Sanchez, Sharon Oneal with: Karen De La Rosa|
+| 2:35  | [Panel on Transferable skills for industry](conf2021/panel-2a.markdown) | Janice Mak, Karina Salazar, Margaret Wilch with: Riley Wagner|
+| 3:05 | [Afternoon Netowrking on Applying for data science jobs in industry](conf2021/network-1.markdown) | YOU!  | 
+| 3:05 | [Afternoon Netowrking on Encouraging women to pursue careers in data science](conf2021/network-1.markdown) | YOU!  |
+| 3:50 | [Awards](conf2021/posterawards.markdown) | YOU!  | 
+| 4:05 | [Happy Hour](conf2021/network-1.markdown) | WiDS Tucson Community | 
+

@@ -1,6 +1,7 @@
 ---
 format: html
 editor: visual
+title: "Meeting Archive"
 listing: 
-  contents: archive
+  contents: archive/conf*.markdown
 ---
