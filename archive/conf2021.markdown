@@ -3,6 +3,7 @@ title: WiDS Tucson 2021
 type: docs
 toc: false
 weight: 1
+image: ../images/logo.png
 description: Virtual Conference Speakers & Sessions
 ---
 

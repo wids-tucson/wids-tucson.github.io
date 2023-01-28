@@ -1,0 +1,10 @@
+---
+image: ../images/logo.png
+description: Virtual Conference Speakers & Sessions
+---
+
+# WiDS Tucson 2020
+
+![](conf2020/WiDS-Tucson_Agenda_3.30.20_Page_1.jpg){fig-align="center"}
+
+![](conf2020/WiDS-Tucson_Agenda_3.30.20_Page_2.jpg){fig-align="center"}

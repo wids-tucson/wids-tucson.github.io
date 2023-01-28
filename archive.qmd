@@ -3,5 +3,5 @@ format: html
 editor: visual
 title: "Meeting Archive"
 listing: 
-  contents: archive/conf*.markdown
+  contents: archive/conf*.*
 ---
