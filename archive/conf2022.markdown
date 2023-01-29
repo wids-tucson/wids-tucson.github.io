@@ -48,7 +48,7 @@ Navigate through tabs on the left sidebar to find out more information on the sp
     </tr>
     <tr>
       <td>9:50am to 10:05am</td>
-      <td>[Data-driven and student-centered: Leveraging institutional data in higher education for policy change](rm2-talk-1.markdown)</td>
+      <td>[Data-driven and student-centered: Leveraging institutional data in higher education for policy change](conf2022/rm2-talk-1.markdown)</td>
       <td>Sarah Kyte</td>
       <td>Room B: https://arizona.zoom.us/j/85853369180</td>
     </tr>
@@ -57,13 +57,13 @@ Navigate through tabs on the left sidebar to find out more information on the sp
     </tr>
     <tr>
       <td>10:10am to 10:25am</td>
-      <td>[Mapping flood risk from space](rm1-talk-2.markdown)</td>
+      <td>[Mapping flood risk from space](conf2022/rm1-talk-2.markdown)</td>
       <td>Beth Tellman</td>
       <td>Room A: https://arizona.zoom.us/j/82893028084</td>
     </tr>
     <tr>
       <td>10:10am to 10:25am</td>
-      <td>[Data Science in the Pursuit of Precision Medicine in Warfarin Therapy](rm2-talk-2.markdown)</td>
+      <td>[Data Science in the Pursuit of Precision Medicine in Warfarin Therapy](conf2022/rm2-talk-2.markdown)</td>
       <td>Heidi Steiner</td>
       <td>Room B: https://arizona.zoom.us/j/85853369180</td>
     </tr>
@@ -72,7 +72,7 @@ Navigate through tabs on the left sidebar to find out more information on the sp
     </tr>
     <tr>
       <td>10:30am to 11:10am</td>
-      <td>[Morning Data Blitz](data-blitz1.markdown)</td>
+      <td>[Morning Data Blitz](conf2022/data-blitz1.markdown)</td>
       <td>Multiple</td>
       <td>Room A: https://arizona.zoom.us/j/82893028084</td>
     </tr>
@@ -91,7 +91,7 @@ Navigate through tabs on the left sidebar to find out more information on the sp
     </tr>
     <tr>
       <td>11:20am to 12:20pm</td>
-      <td>[Life and Work Balance in Data Science](panel-1b.markdown)</td>
+      <td>[Life and Work Balance in Data Science](conf2022/panel-1b.markdown)</td>
       <td>Kathryn Barger<br>
       Lise-Marie Imbert-Gerard<br>
       Cindy Davis, MPH, RDN<br>
@@ -107,13 +107,13 @@ Navigate through tabs on the left sidebar to find out more information on the sp
     </tr>
     <tr>
       <td>1:00pm to 1:15pm</td>
-      <td>[Data Challenges and Opportunities in Natural Disaster Economics and Policy](rm1-talk-3-markdown)</td>
+      <td>[Data Challenges and Opportunities in Natural Disaster Economics and Policy](conf2022/rm1-talk-3-markdown)</td>
       <td>Laura A. Bakkensen</td>
       <td>Room A: https://arizona.zoom.us/j/82893028084</td>
     </tr>
     <tr>
       <td>1:00pm to 1:15pm</td>
-      <td>[AI Applications for Sustainable Mining](rm2-talk-3.markdown)
+      <td>[AI Applications for Sustainable Mining](conf2022/rm2-talk-3.markdown)
 </td>
       <td>Nathalie Risso</td>
       <td>Room B: https://arizona.zoom.us/j/85853369180</td>
@@ -123,13 +123,13 @@ Navigate through tabs on the left sidebar to find out more information on the sp
     </tr>
     <tr>
       <td>1:25pm to 1:40pm</td>
-      <td>[Visual Representation of Quality Metrics](rm1-talk-4.markdown)</td>
+      <td>[Visual Representation of Quality Metrics](conf2022/rm1-talk-4.markdown)</td>
       <td>Dianne Patterson</td>
       <td>Room A: https://arizona.zoom.us/j/82893028084</td>
     </tr>
     <tr>
       <td>1:25pm to 1:40pm</td>
-      <td>[Simultaneously Understanding Individual Connection and Neural Network Differences Between Groups:  Simulation Pipeline and Algorithm Development](rm2-talk-4.markdown)
+      <td>[Simultaneously Understanding Individual Connection and Neural Network Differences Between Groups:  Simulation Pipeline and Algorithm Development](conf2022/rm2-talk-4.markdown)
 </td>
       <td>Julia Fisher</td>
       <td>Room B: https://arizona.zoom.us/j/85853369180</td>
@@ -139,7 +139,7 @@ Navigate through tabs on the left sidebar to find out more information on the sp
     </tr>
     <tr>
       <td>1:45pm to 2:15pm</td>
-      <td>[Afternoon Data Blitz](data-blitz2.markdown)</td>
+      <td>[Afternoon Data Blitz](conf2022/data-blitz2.markdown)</td>
       <td>Multiple</td>
       <td>Room A: https://arizona.zoom.us/j/82893028084</td>
     </tr>
@@ -148,7 +148,7 @@ Navigate through tabs on the left sidebar to find out more information on the sp
     </tr>
     <tr>
       <td>2:30pm to 3:30pm</td>
-      <td>[Data Science Industry](panel-2a.markdown)</td>
+      <td>[Data Science Industry](conf2022/panel-2a.markdown)</td>
       <td>Jenn Schilling<br>
       Joana M. F. da Trindade<br>
       Sasha Lavrentovich<br>
@@ -158,7 +158,7 @@ Navigate through tabs on the left sidebar to find out more information on the sp
     </tr>
     <tr>
       <td>2:30pm to 3:30pm</td>
-      <td>[Outreach in Data Science](panel-2b.markdown)</td>
+      <td>[Outreach in Data Science](conf2022/panel-2b.markdown)</td>
       <td>Jill Williams<br>
       Margaret Wilch<br>
       Adriana Picoral
@@ -170,14 +170,14 @@ Navigate through tabs on the left sidebar to find out more information on the sp
     </tr>
     <tr>
       <td>3:35pm to 3:50pm</td>
-      <td>[Awards & Closing Remarks](closing.markdown)</td>
+      <td>[Awards & Closing Remarks](conf2022/closing.markdown)</td>
       <td>Adriana Picoral
       </td>
       <td>Room A: https://arizona.zoom.us/j/82893028084</td>
     </tr>
     <tr>
       <td>4:30pm</td>
-      <td>[Happy Hour](happy-hour.markdown)</td>
+      <td>[Happy Hour](conf2022/happy-hour.markdown)</td>
       <td>Borderlands Brewing Company, 119 E Toole Ave, Tucson, AZ 85701
       </td>
       <td></td>

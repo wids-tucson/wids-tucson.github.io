@@ -22,6 +22,10 @@ website:
     right:
       - text: "Community"
         menu:
+          - text: "About the Organizers"
+            href: aboutUs.qmd
+          - text: "Event Sponsors"
+            href: sponsors.qmd
           - text: "Join the Community"
             href: community.qmd
           - text: "Code of Conduct"
