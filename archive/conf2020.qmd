@@ -1,6 +1,7 @@
 ---
-image: ../images/logo.png
+format: html
 description: Virtual Conference Speakers & Sessions
+editor: visual
 ---
 
 # WiDS Tucson 2020
@@ -8,3 +9,9 @@ description: Virtual Conference Speakers & Sessions
 ![](conf2020/WiDS-Tucson_Agenda_3.30.20_Page_1.jpg){fig-align="center"}
 
 ![](conf2020/WiDS-Tucson_Agenda_3.30.20_Page_2.jpg){fig-align="center"}
+
+# Conference Summary
+
+WiDS Tucson was held on April 17, 2020, as a virtual conference attended by approximately 200 people, including from as far away as Brazil. The event was introduced by WiDS Ambassador Bonnie LaFleur, followed by a keynote address from Calline Sanchez, VP, IBM Worldwide Systems Lab Services. Concurrent talks were given on Cancer Biology, Textual Data, Life Experiences in Suicide Individuals, Education Access Equity, and Data Policy followed. Panel discussions on Data Analytics in HealthCare, and on Entrepreneurship were each lively and informative, followed by DataBlitz three-minute lightning talks. The afternoon featured inspiring parallel Keynote talks from Marie Wesselhoft, Tech Launch Arizona Venture Development and President of MSDx; Deborah Hughes Hallett, Professor of Public Policy at the Harvard Kennedy School and Professor at UArizona Mathematics; More concurrent talks followed, covering Ecosystem Science, Astrobiology, Educational & Psychological Measurement, Cultivating Productivity for Discovery, Indigenous Data Sovereignty, and Viewing fMRI Results. An animated panel discussion on Data Ethics & Bias generated thought-provoking questions and comments, followed by a poster session. The day concluded with a virtual Happy Hour, allowing participants more opportunities to network and brainstorm towards WiDS Tucson 2021.
+
+The WiDS Tucson community expresses their gratitude to Susan Miller for her tireless energy to the advancement of women in data science, including bringing the WiDS conference to Tucson. The conference day was Susan's last day before her retirement. We wish her well, and are hopeful that she will grace us with her assistance and presence next year!

@@ -37,3 +37,8 @@ body {
   color: $dark-green;
 }
 
+
+.quarto-title > h1.title {
+  opacity: 0 !important; // suggested to remove title below logo homepage
+  font-size: 2% !important;
+}

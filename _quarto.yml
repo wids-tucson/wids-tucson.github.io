@@ -23,7 +23,7 @@ website:
       - text: "Community"
         menu:
           - text: "About the Organizers"
-            href: aboutUs.qmd
+            href: about.qmd
           - text: "Event Sponsors"
             href: sponsors.qmd
           - text: "Join the Community"

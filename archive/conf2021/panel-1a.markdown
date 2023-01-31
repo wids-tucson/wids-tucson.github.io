@@ -22,7 +22,7 @@ chunk_output_type: console
     <td ROWSPAN="3"><img style="float: left;" src="img/hong-cui.jpg" width="300" /></td>
   </tr>
   <tr>
-    <td ROWSPAN="2">Professor<br>School of Information<br>University of Arizona</li>
+    <td ROWSPAN="2">Professor<br>School of Information<br>University of Arizona
     </td>
     <td><i class="fab fa-linkedin"></i> <a href="https://www.linkedin.com/in/hong-cui-b9777018/" target="_blank" rel="noopener">Linkedin</a>
     </td>

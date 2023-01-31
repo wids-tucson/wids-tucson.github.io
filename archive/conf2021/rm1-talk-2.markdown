@@ -1,7 +1,6 @@
 ---
 title: "10:10am Room A - Meta-analysis of Transcranial Magnetic Stimulation Studies in Neurodegenerative Disorders"
 linktitle: "10:10 - Dr. Ying-hui Chou"
-date: "2021-04-19"
 menu:
   sessions_2021:
     parent: Concurrent Speakers

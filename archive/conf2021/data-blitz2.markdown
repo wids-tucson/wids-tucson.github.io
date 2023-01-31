@@ -1,7 +1,6 @@
 ---
 title: "1:45pm Room A - Data Blitz"
 linktitle: "1:45 - Afternoon"
-date: "2021-04-14"
 menu:
   sessions_2021:
     parent: "Data Blitz"

@@ -107,7 +107,7 @@ Navigate through tabs on the left sidebar to find out more information on the sp
     </tr>
     <tr>
       <td>1:00pm to 1:15pm</td>
-      <td>[Data Challenges and Opportunities in Natural Disaster Economics and Policy](conf2022/rm1-talk-3-markdown)</td>
+      <td>[Data Challenges and Opportunities in Natural Disaster Economics and Policy](conf2022/rm1-talk-3.markdown)</td>
       <td>Laura A. Bakkensen</td>
       <td>Room A: https://arizona.zoom.us/j/82893028084</td>
     </tr>

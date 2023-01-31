@@ -1,7 +1,6 @@
 ---
 title: "2:35pm Room B - Leaky Pipeline"
 linktitle: "2:35 - Panel on Leaky Pipeline"
-date: "2021-04-19"
 menu:
   sessions_2021:
     parent: Panels

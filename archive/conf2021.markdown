@@ -20,7 +20,7 @@ description: Virtual Conference Speakers & Sessions
 | 11:50 | [Morning Netowrking on Data science communities and social support](conf2021/network-1.markdown) | YOU!  |
 | 1:45  | [Afternoon Data Blitz](conf2021/data-blitz2.markdown)  | Many Talented Speakers  | 
 | 2:35  | [Panel on Transferable skills for industry](conf2021/panel-2a.markdown) | Calline Sanchez, Sharon Oneal with: Karen De La Rosa|
-| 2:35  | [Panel on Transferable skills for industry](conf2021/panel-2a.markdown) | Janice Mak, Karina Salazar, Margaret Wilch with: Riley Wagner|
+| 2:35  | [Panel on Leaky Pipelines](conf2021/panel-2b.markdown) | Janice Mak, Karina Salazar, Margaret Wilch with: Riley Wagner|
 | 3:05 | [Afternoon Netowrking on Applying for data science jobs in industry](conf2021/network-1.markdown) | YOU!  | 
 | 3:05 | [Afternoon Netowrking on Encouraging women to pursue careers in data science](conf2021/network-1.markdown) | YOU!  |
 | 3:50 | [Awards](conf2021/posterawards.markdown) | YOU!  | 
