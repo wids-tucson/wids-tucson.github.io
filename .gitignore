@@ -1,1 +1,6 @@
 /.quarto/
+/archive/conf*/flier*
+/archive/conf*/img/flier*
+/archive/conf*/UAatWork*
+
+**/.DS_Store

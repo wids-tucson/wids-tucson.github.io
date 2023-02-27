@@ -6,7 +6,7 @@ editor: visual
 
 # WiDS Tucson 2019
 
-#### 8:30-9:00 **Check-in/Coffee/Tea** 
+#### 8:30-9:00 **Check-in/Coffee/Tea**
 
 Provided by UA Data Science Institute
 
@@ -52,7 +52,7 @@ Provided by UA Data Science Institute
 
 #### 11:00-11:55 **Morning DataBlitz: 3 minute talks**
 
-#### 11:55-12:55 **Lunch and Breakout Tables** 
+#### 11:55-12:55 **Lunch and Breakout Tables**
 
 Provided by UA Data Science Institute, UA TRIPODS, and UA Center for Biomedical Informatics & Biostatistics
 
@@ -80,7 +80,7 @@ TBA: *Building a Women in Data Science Community*
 
 **Bonnie LaFleur,** PhD, Research Professor, BIO5 Institute; Associate Professor, Public Health: *"Novel Approaches in Displaying Functional Classes of miRNA Using Compositional Data"*
 
-**Erin Leahey**, PhD, Professor & Director, School of Sociology: *"Universities\' Commitment to Interdisciplinary Research: To What End?"*
+**Erin Leahey**, PhD, Professor & Director, School of Sociology: *"Universities' Commitment to Interdisciplinary Research: To What End?"*
 
 #### 2:15-2:30 **Concurrent Talks:**
 

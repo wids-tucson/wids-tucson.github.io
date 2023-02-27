@@ -5,10 +5,10 @@ project:
 website:
   favicon: images/logo.png
   navbar:
-    title: "WiDS Tucson"
-    logo: images/logo.png
+    pinned: true
+    title: " "
     logo-alt: "The Women in Data Science logo featuring a head with long straight hair facing to the left with hair blowing to the right"
-    left:
+    right:
       - text: "Conference"
         menu:
           - text: "About"
@@ -17,9 +17,8 @@ website:
             href: conf2023.qmd
           - text: "Meeting Archive"
             href: archive.qmd
-      - text: "Datathon"
-        href: datathon.qmd
-    right:
+      - text: "Datathon Workshop"
+        href: datathon.qmd    
       - text: "Community"
         menu:
           - text: "About the Organizers"

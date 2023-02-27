@@ -42,3 +42,11 @@ body {
   opacity: 0 !important; // suggested to remove title below logo homepage
   font-size: 2% !important;
 }
+
+.navbar-brand {
+    background: url(images/wids-black-1line.png) center / contain no-repeat;
+    height: $navbar-brand-font-size * $line-height-base * 2 !important;
+    width: $navbar-brand-font-size * $line-height-base * 10 !important;
+}
+
+

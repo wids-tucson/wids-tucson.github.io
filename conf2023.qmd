@@ -1,11 +1,48 @@
 ---
 toc: false
-format: html
+format: 
+  html: 
+    tbl-colwidths: [10,20,50,20]
+    max-width: 30em
 editor: visual
 ---
 
+::: callout-important
+#### Save the date! 
+
 #### 🗓 Thursday, April 20th, 2023
 
-#### ⏰ TBD MST
+#### ⏰ 8:45am-5:30pm MST
+:::
 
-More details coming soon!
+\
+
+**Expect an exciting day of interdisciplinary talks from brilliant data scientists and researchers including:**
+
+[Sarah Bratt](http://sarahbratt.com/), PhD; [Luisa Rojas](https://phoenixmed.arizona.edu/young-investigators/rojas); [Meaghan Wetherell](www.meaghanwetherell.com), PhD; [Vicky Lai](https://bio5.org/people/vicky-tzuyin-lai), PhD; [Danielle Van Boxel](https://dvbuntu.github.io/); [Riley Taitingfong](https://nni.arizona.edu/person/riley-taitingfong-phd), PhD; [Ellie Broadman](https://www.elliebroadman.com/), PhD; [Charlotte Pearson](http://treeringsandpeople.org/), PhD; [Heather Froehlich](https://new.library.arizona.edu/people/heather-froehlich-phd), PhD
+
+\
+
+#### Schedule of Sessions: TBD
+
+| Time          | Session                    | Title      | Speaker |
+|---------------|----------------------------|------------|---------|
+| 8:45a-9:00a   | Opening                    | Opening    |         |
+| 9:00a-9:45a   | Keynote                    |            |         |
+| 9:50a-10:05a  | Concurrent Morning Talks   |            |         |
+| 9:50a-10:05a  | Concurrent Morning Talks   |            |         |
+| 10:10a-10:25a | Concurrent Morning Talks   |            |         |
+| 10:10a-10:25a | Concurrent Morning Talks   |            |         |
+| 10:30a-11:10a | Morning Data Blitz         |            |         |
+| 11:20a-12:20p | Morning Panels             |            |         |
+| 11:20a-12:20p | Morning Panels             |            |         |
+| 12:20p-1:00p  | Break                      |            |         |
+| 1:00p-1:15p   | Concurrent Afternoon Talks |            |         |
+| 1:00p-1:15p   | Concurrent Afternoon Talks |            |         |
+| 1:25p-1:40p   | Concurrent Afternoon Talks |            |         |
+| 1:25p-1:40p   | Concurrent Afternoon Talks |            |         |
+| 1:45p-2:15p   | Afternoon Data Blitz       |            |         |
+| 2:30p-3:30p   | Afternoon Panels           |            |         |
+| 2:30p-3:30p   | Afternoon Panels           |            |         |
+| 3:35p-3:50    | Closing                    | Closing    |         |
+| 4:30p         | Social                     | Happy Hour |         |
