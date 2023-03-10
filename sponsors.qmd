@@ -4,6 +4,4 @@ toc: false
 
 ### Thank you to our sponsors!
 
-\
-
-![](images/School%20of%20Information_College%20of%20Social%20&%20Behavioral%20Sciences_Webheader.png){fig-alt="University of Arizona \"A\" logo with School of Information College of Social and Behavioral Sciences department text" fig-align="center"}
+[![](images/institute-for-comp-data-enabled-insight_web_0.svg)](https://datainsight.arizona.edu/)
