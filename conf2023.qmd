@@ -8,22 +8,14 @@ editor: visual
 ---
 
 ::: callout-important
-#### Save the date!
+#### [Register](https://www.eventbrite.com/e/wids-tucson-2023-tickets-580664311587)
 
 #### 🗓 Thursday, April 20th, 2023
 
 #### ⏰ 8:45am-5:30pm MST
 :::
 
-\
-
-**Expect an exciting day of interdisciplinary talks from brilliant data scientists and researchers including:**
-
-[Sarah Bratt](http://sarahbratt.com/), PhD; [Luisa Rojas](https://phoenixmed.arizona.edu/young-investigators/rojas); [Meaghan Wetherell](www.meaghanwetherell.com), PhD; [Vicky Lai](https://bio5.org/people/vicky-tzuyin-lai), PhD; [Danielle Van Boxel](https://dvbuntu.github.io/); [Riley Taitingfong](https://nni.arizona.edu/person/riley-taitingfong-phd), PhD; [Ellie Broadman](https://www.elliebroadman.com/), PhD; [Charlotte Pearson](http://treeringsandpeople.org/), PhD; [Heather Froehlich](https://new.library.arizona.edu/people/heather-froehlich-phd), PhD
-
-\
-
-#### Schedule of Sessions: TBD
+#### Schedule of Sessions: 
 
 +-----------------+----------------------------+----------------------------------------------------------------------+-----------------------------------+
 | Time            | Session                    | Title                                                                | Speaker                           |
