@@ -26,7 +26,7 @@ editor: visual
 |               |                            |                                                                      |                                   |
 |               |                            |                                                                      | U.S. Chief Data Scientist         |
 +---------------+----------------------------+----------------------------------------------------------------------+-----------------------------------+
-| 9:50a-10:05a  | Concurrent Morning Talks   | How your mood affects the way you process language                   | Vicky Lai                         |
+| 9:50a-10:05a  | Concurrent Morning Talks   | Mood and Language: Insights from Brain Data                          | Vicky Lai                         |
 |               |                            |                                                                      |                                   |
 |               |                            |                                                                      | Asst Prof, Psychology             |
 +---------------+----------------------------+----------------------------------------------------------------------+-----------------------------------+
