@@ -2,8 +2,8 @@
 toc: false
 format: 
   html: 
-    tbl-colwidths: [10,20,50,20]
-    max-width: 30em
+    tbl-colwidths: [10,20,50,40]
+    max-width: 40em
 editor: visual
 ---
 
