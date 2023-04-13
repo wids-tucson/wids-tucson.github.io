@@ -45,6 +45,10 @@ editor: visual
 |               |                            |                                                                      | Kathleen J. Kennedy               |
 |               |                            |                                                                      |                                   |
 |               |                            |                                                                      | Simona Merlini                    |
+|               |                            |                                                                      |                                   |
+|               |                            |                                                                      | Kapua Ioane                       |
+|               |                            |                                                                      |                                   |
+|               |                            |                                                                      | Bailie Wynbelt                    |
 +---------------+----------------------------+----------------------------------------------------------------------+-----------------------------------+
 | 11:20a-12:20p | Morning Panels             | Machine Learning vs. Statistics                                      |                                   |
 |               |                            |                                                                      |                                   |
