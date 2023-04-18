@@ -15,7 +15,7 @@ This hands-on workshop will prepare you to participate in the [Global WiDS datat
 In this year's **Global WiDS Datathon**, participants will use data science to improve longer-range weather forecasts to help people prepare and adapt to extreme weather events caused by climate change.
 
 ::: callout-important
-## [Register here](https://bit.ly/datathon-workshop-2023)!
+## Stay tuned for our 2024 Datathon Workshop
 :::
 
 ![](images/WiDS-Tucson-Datathon.png){fig-alt="WiDS Tucson Datathon Flier featuring WiDS Tucson logo, headshots of two speakers, and a QR code to register" fig-align="center"}
