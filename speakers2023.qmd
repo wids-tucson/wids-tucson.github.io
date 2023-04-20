@@ -9,7 +9,7 @@ toc: false
 
 April 20, 9am -- Keynote, *Student Union -- Kachina (also online in* also in [room A](https://arizona.zoom.us/j/88420856384))
 
-Denice Ross is the second person and first woman to serve as the Chief Data Scientist of the United States. Through this role in the White House Office of Science and Technology, Denice leads the Biden-Harris Administration equitable data work. She also served in the Obama-Biden Administration where she co-founded the White House Police Data Initiative to increase transparency and accountability. Before moving to DC, Denice established the City of New Orleans\' first open data initiative and co-directed a non-profit data intermediary that became the go-to resource for data to inform an equitable recovery after Hurricane Katrina. Denice holds a Bachelor of Science in Biology from the University of Arizona (Class of '94) and a masters degree in Energy Policy & Climate from Johns Hopkins University. While at the University of Arizona, Denice was active in the Undergraduate Biology Research Program.
+Denice Ross is the second person and first woman to serve as the Chief Data Scientist of the United States. Through this role in the White House Office of Science and Technology, Denice leads the Biden-Harris Administration equitable data work. She also served in the Obama-Biden Administration where she co-founded the White House Police Data Initiative to increase transparency and accountability. Before moving to DC, Denice established the City of New Orleans' first open data initiative and co-directed a non-profit data intermediary that became the go-to resource for data to inform an equitable recovery after Hurricane Katrina. Denice holds a Bachelor of Science in Biology from the University of Arizona (Class of '94) and a masters degree in Energy Policy & Climate from Johns Hopkins University. While at the University of Arizona, Denice was active in the Undergraduate Biology Research Program.
 
 # Vicky Lai
 
@@ -17,7 +17,7 @@ April 20, 9:50am -- Morning Talk, *Student Union -- Kachina (also online in* als
 
 Dr. Lai is faculty in Psychology, Cognitive Science at the University of Arizona. She directs the Cognitive Neuroscience of Language Laboratory (https://neurolang.lab.arizona.edu/), where lab members use behavioral, electrophysiological, and imaging measures to study figurative language, emotion and language, and language and thought. Dr. Lai is an elected fellow in the Psychonomic Society. In 2022 she received two National Science Foundation grants: "Learning science concepts through metaphor comprehension, production, and conversation" and "Effects of context on emotional word processing in healthy younger and older adults".
 
-# Heather Froehlich 
+# Heather Froehlich
 
 April 20, 10:10am -- Morning Talk, *Student Union -- Kachina (also online in* also in [room A](https://arizona.zoom.us/j/88420856384))
 
@@ -57,13 +57,13 @@ Jessica Guo is a plant ecophysiologist and data scientist who studies plant-envi
 
 April 20, 11:20am -- Morning Panel, Data Science Training, Online ([room B](https://arizona.zoom.us/s/81289501438))
 
-Laurie Sheldon works as a researcher in the Center for Assessment, Teaching, and Technology at the University of Arizona where she received her Ph.D. degree in Teaching, Learning, and Sociocultural Studies with a minor in Cognitive Science. Her research centers on digital literacies from a sociocultural perspective. She focuses on data literacies, more specifically individuals\' everyday meaning-making practices with online digital data. Her research has explored how the collaborative, participatory digital environment supports the development of critical data literacies and how individuals come to understand data as a situated, socially constructed resource for meaning-making. She also studies the creation and interpretation of data visualization, exploring how everyday people understand their world through online, digital data. She is currently researching datafication, platform analytics, and learning assessment. She teaches classes in data literacies and collaborates with instructors across the University to assist them in developing quantitative reasoning and data literacies instruction.\
+Laurie Sheldon works as a researcher in the Center for Assessment, Teaching, and Technology at the University of Arizona where she received her Ph.D. degree in Teaching, Learning, and Sociocultural Studies with a minor in Cognitive Science. Her research centers on digital literacies from a sociocultural perspective. She focuses on data literacies, more specifically individuals' everyday meaning-making practices with online digital data. Her research has explored how the collaborative, participatory digital environment supports the development of critical data literacies and how individuals come to understand data as a situated, socially constructed resource for meaning-making. She also studies the creation and interpretation of data visualization, exploring how everyday people understand their world through online, digital data. She is currently researching datafication, platform analytics, and learning assessment. She teaches classes in data literacies and collaborates with instructors across the University to assist them in developing quantitative reasoning and data literacies instruction.\
 
 # Ellen Bledsoe
 
 April 20, 11:20am -- Morning Panel, Data Science Training, Online ([room B](https://arizona.zoom.us/s/81289501438))
 
-Ellen Bledsoe is an Assistant Professor of Practice in Ecological Data Science with SNRE. She is trained as a community ecologist, and it wasn\'t until graduate school that she heard about data science, let alone became interested in the field! After getting a PhD from the University of Florida, she spent a year as a postdoctoral teaching and research fellow for the Living Data Project, a Canada-wide data science training project for graduate students through the Canadian Institute for Ecology and Evolution. She teaches both undergraduate and graduate courses in data science and has published articles ranging from rodent community dynamics, inclusive pedagogy practices, and barriers to incorporating data science in undergraduate biology education.
+Ellen Bledsoe is an Assistant Professor of Practice in Ecological Data Science with SNRE. She is trained as a community ecologist, and it wasn't until graduate school that she heard about data science, let alone became interested in the field! After getting a PhD from the University of Florida, she spent a year as a postdoctoral teaching and research fellow for the Living Data Project, a Canada-wide data science training project for graduate students through the Canadian Institute for Ecology and Evolution. She teaches both undergraduate and graduate courses in data science and has published articles ranging from rodent community dynamics, inclusive pedagogy practices, and barriers to incorporating data science in undergraduate biology education.
 
 # Sarah Bratt
 
@@ -85,7 +85,7 @@ Dr. Meaghan Wetherell is a paleontologist, science communicator, and data scient
 
 # Danielle Van Boxel
 
-April 20, 1:25pm -- Concurrent Afternoon Talk, Online ([room A](https://arizona.zoom.us/j/88420856384))
+April 20, 1:25pm -- Concurrent Afternoon Talk, Online ([room B](https://arizona.zoom.us/s/81289501438))
 
 Danielle Van Boxel is a third year Ph.D. student in Applied Math at the University of Arizona and Senior Data Scientist with the Rincon Research Corporation. She previously worked in government for a decade generating and analyzing statistics to discover anomalies and patterns in seemingly random data. Her current research focuses on Bayesian methods in ensemble machine learning. In her free time, Danielle enjoys bird watching, tabletop RPGs, and making math puns.
 
