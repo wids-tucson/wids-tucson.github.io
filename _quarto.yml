@@ -13,6 +13,8 @@ website:
         href: conf.qmd
       - text: "2023 Conference"
         href: conf2023.qmd
+      - text: "2023 Speakers"
+        href: speakers2023.qmd
       - text: "Meeting Archive"
         href: archive.qmd
       - text: "Datathon Workshop"
