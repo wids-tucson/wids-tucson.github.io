@@ -1,33 +1,15 @@
 ---
+format: html
+editor: visual
 toc: false
 ---
 
-### 2023 Organizational Team
+### WiDS Tucson Conference
 
-The WiDS Tucson organizational team meets regularly throughout the spring semester. Email us at [wids.tucson\@gmail.com](wids.tucson@gmail.com) at any time to join an organizational committee. We look forward to working with you!
+This Tucson WIDS meeting aims to further build the community around women in Data Science. The meeting provides a forum for women to share technical information about their projects with each other, and community members; to explore innovative topics emerging in the software and data infrastructure communities; to discuss and learn about best practices across projects; and to stimulate new ideas of achieving software and data sustainability and new collaborations.
 
-#### Co-ambassadors
+Women in the data science community are invited to present talks and participate in panels about their projects. Anyone who is interested in attending the meeting is welcome and encouraged to do so.
 
-Adriana Picoral, Heidi Steiner
+There is no registration fee, but participants need to register by **Friday March 29, 2024 at 8:30am MST** to allow for planning logistics. This meeting will be entirely online hosted on Zoom, with some of the speakers in the morning also in person on the University of Arizona on campus.
 
-#### Sub-committee Members
-
-###### [Concurrent Talks]{.underline}
-
-Maliaca Oxnam, Jason Pacheco, and Kristi Manasil
-
-###### [Data Blitz]{.underline}
-
-Heather Froehlich, Jeff Oliver and Sarah Bratt
-
-###### [Keynote]{.underline}
-
-Bonnie Hurwitz, Alex Christensen, Tina Johnson, and Sarah Bratt
-
-###### [Panels]{.underline}
-
-Kristina Riemer, Lia Ossanna, Chen Chen, and Sarah Stueve
-
-### WiDS Tucson Community 
-
-Sarah Yates, Susan Miller, Helen Zhang, Kathleen Kennedy, Joanne Berghout, Francesca Vitali, Amy Hudson, Jiali Han, Jessica Guo, Laura Dozal, Karen de la Rosa, Jung Mee Park, Jenn Schilling, Zelene Zazueta
+Find past meeting agendas in [Meeting Archive](https://wids-tucson.github.io/archive.html).

@@ -3,24 +3,23 @@ project:
   output-dir: docs
 
 website:
-  favicon: images/logo.png
   navbar:
     pinned: true
     title: " "
-    logo-alt: "The Women in Data Science logo featuring a head with long straight hair facing to the left with hair blowing to the right"
+    logo-alt: "TBD"
     right:
       - text: "About"
-        href: conf.qmd
-      - text: "2023 Conference"
-        href: conf2023.qmd
-      - text: "2023 Speakers"
-        href: speakers2023.qmd
+        href: about.qmd
+      - text: "2024 Conference"
+        href: conf2024.qmd
+      - text: "2024 Speakers"
+        href: speakers2024.qmd
       - text: "Meeting Archive"
         href: archive.qmd
       - text: "Datathon Workshop"
-        href: datathon.qmd    
+        href: datathon2024.qmd    
       - text: "About the Organizers"
-        href: about.qmd
+        href: organizers.qmd
       - text: "Event Sponsors"
         href: sponsors.qmd
       - text: "Join the Community"
