@@ -1,0 +1,36 @@
+---
+toc: false
+format: 
+  html: 
+    tbl-colwidths: [10,20,50,40]
+    max-width: 40em
+editor: visual
+---
+
+::: callout-important
+#### [Register](https://forms.gle/ttzf3MyogJuCNAeD9){target="_blank"}
+
+#### 🗓 Friday March 29, 2024
+
+#### ⏰ 8:30am-5:30pm MST
+:::
+
+| Time         | Session                    | Title/Location | Speaker(s) |
+|--------------|----------------------------|----------------|------------|
+| 8:30a-9:00a  | Opening                    |                |            |
+| 9:00a-9:45a  | Morning Keynote            | TBD            | TBD        |
+|              | Morning Talks              | TBD            | TBD        |
+|              | Morning Talks              | TBD            | TBD        |
+|              | Concurrent Morning Talks   | TBD            | TBD        |
+|              | Concurrent Morning Talks   | TBD            | TBD        |
+|              | Morning Data Blitz         | TBD            | TBD        |
+|              | Morning Panels             | TBD            | TBD        |
+|              | Morning Panels             | TBD            | TBD        |
+| 12:20p-1:00p | Break                      |                |            |
+| 1:00p-1:45p  | Afternoon Keynote          | TBD            | TBD        |
+|              | Concurrent Afternoon Talks | TBD            | TBD        |
+|              | Concurrent Afternoon Talks | TBD            | TBD        |
+|              | Concurrent Afternoon Talks | TBD            | TBD        |
+|              | Concurrent Afternoon Talks | TBD            | TBD        |
+|              | Closing                    | TBD            | TBD        |
+|              | Social                     | TBD            | TBD        |

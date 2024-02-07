@@ -5,6 +5,8 @@ title: "Meeting Archive"
 listing: 
   template: gallery.ejs
   contents:
+    - name: "WiDS Tucson 2023"
+      href: archive/conf2023.qmd
     - name: "WiDS Tucson 2022"
       href: archive/conf2022.markdown
     - name: "WiDS Tucson 2021"
