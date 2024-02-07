@@ -20,4 +20,4 @@ Women in Data Science (WiDS) Tucson is an independent event organized by the Uni
 
 The Global WiDS Conference aims to inspire and educate data scientists worldwide, regardless of gender, and to support women in the field. This one-day technical conference provides an opportunity to hear about the latest data science related research and applications in a number of domains, and connect with others in the field.
 
-[Register for the Event!]()
+[Register for the Event!](https://forms.gle/ttzf3MyogJuCNAeD9){target="_blank"}

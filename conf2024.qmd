@@ -8,7 +8,7 @@ editor: visual
 ---
 
 ::: callout-important
-#### [Register]()
+#### [Register](https://forms.gle/ttzf3MyogJuCNAeD9){target="_blank"}
 
 #### 🗓 Friday March 29, 2024
 
