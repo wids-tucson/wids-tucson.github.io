@@ -1,6 +1,7 @@
 ---
 title: WiDS Tucson
 toc: false
+image: images/WiDS-V-line1-3.png
 about: 
   template: trestles
   image-width: 16em
