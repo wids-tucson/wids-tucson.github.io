@@ -15,22 +15,22 @@ editor: visual
 #### ⏰ 8:30am-5:30pm MST
 :::
 
-| Time         | Session                    | Title/Location | Speaker(s) |
-|--------------|----------------------------|----------------|------------|
-| 8:30a-9:00a  | Opening                    |                |            |
-| 9:00a-9:45a  | Morning Keynote            | TBD            | TBD        |
-|              | Morning Talks              | TBD            | TBD        |
-|              | Morning Talks              | TBD            | TBD        |
-|              | Concurrent Morning Talks   | TBD            | TBD        |
-|              | Concurrent Morning Talks   | TBD            | TBD        |
-|              | Morning Data Blitz         | TBD            | TBD        |
-|              | Morning Panels             | TBD            | TBD        |
-|              | Morning Panels             | TBD            | TBD        |
-| 12:20p-1:00p | Break                      |                |            |
-| 1:00p-1:45p  | Afternoon Keynote          | TBD            | TBD        |
-|              | Concurrent Afternoon Talks | TBD            | TBD        |
-|              | Concurrent Afternoon Talks | TBD            | TBD        |
-|              | Concurrent Afternoon Talks | TBD            | TBD        |
-|              | Concurrent Afternoon Talks | TBD            | TBD        |
-|              | Closing                    | TBD            | TBD        |
-|              | Social                     | TBD            | TBD        |
+| Time               | Session                    | Title | Speaker(s) | Location           |
+|------------|---------------------|---------------|---------------|----------|
+| 8:30am - 9:00am    | Opening                    |       |            | In person & online |
+| 9:00am - 9:45am    | Morning Keynote            | TBD   | TBD        | In person & online |
+| 9:50am - 10:05am   | Morning Talks              | TBD   | TBD        | In person & online |
+| 10:10am - 10:25am  | Morning Talks              | TBD   | TBD        | In person & online |
+| 10:30am - 10:45am  | Concurrent Morning Talks   | TBD   | TBD        | Online             |
+| 10:30am - 10:45am  | Concurrent Morning Talks   | TBD   | TBD        | Online             |
+| 10:50am - 11:15am  | Morning Data Blitz         | TBD   | TBD        | Online             |
+| 11:20am - 12:20pm  | Morning Panels             | TBD   | TBD        | Online             |
+| 12:20pm - 1:00pm   | Break                      | TBD   | TBD        |                    |
+| 1:00pm - 1:45pm    | Afternoon Keynote          |       |            | Online             |
+| 1:50pm - 2:05pm    | Concurrent Afternoon Talks | TBD   | TBD        | Online             |
+| 1:50pm - 2:05pm    | Concurrent Afternoon Talks | TBD   | TBD        | Online             |
+| 2:10pm - 2:25pm    | Concurrent Afternoon Talks | TBD   | TBD        | Online             |
+| 2:10pm - 2:25pm    | Concurrent Afternoon Talks | TBD   | TBD        | Online             |
+|                    |                            | TBD   | TBD        |                    |
+|                    | Closing                    | TBD   | TBD        | Online             |
+|                    | Social                     | TBD   | TBD        | TBD                |
