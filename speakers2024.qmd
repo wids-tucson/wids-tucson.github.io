@@ -5,4 +5,66 @@ editor: visual
 toc: false
 ---
 
-# Soon to be added!
+# Keynote speakers
+
+---
+
+#### Ellen Riloff
+
+Professor and Department Head, Computer Science, University of Arizona
+
+#### Angela Cruze
+
+Director of Programming & Operations, Institute for Computation & Data-Enabled Insight, University of Arizona
+
+# Invited speakers
+
+---
+
+#### Xinchen Yu
+
+Assistant Professor of Practice, Computer Science, University of Arizona
+
+#### Valeria Pfeifer
+
+Postdoc, Naturalistic Observation of Social Interaction Lab, University of Arizona
+
+#### Ellen Bledsoe
+
+Assistant Professor of Practice, School of Natural Resources & the Environment, University of Arizona
+
+#### Gondy Leroy
+
+Associate Dean for Research, Eller College of Management, University of Arizona
+
+#### Jina Lee
+
+PhD Candidate, Sociology, University of Arizona
+
+#### Natalie Raia
+
+Postdoc, School of Information, University of Arizona
+
+#### Dalal Alharthi
+
+Assistant Professor, College of Applied Science & Technology, University of Arizona
+
+# Panelists
+
+---
+
+#### Alex Labenz
+
+M.A. Student, Division for Late Medieval and Reformation Studies, University of Arizona
+
+#### Bailie Wynbelt
+
+B.S. Student, Information Science with an emphasis in Data Science, University of Arizona
+
+#### Anna Leach
+
+PhD Student, School of Information with a minor in Teaching, Learning and Sociocultural studies, University of Arizona
+
+#### Karen Barto
+
+Writing Specialist, Writing Skills Improvement Program, College of Humanities, University of Arizona
