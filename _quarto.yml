@@ -14,6 +14,8 @@ website:
         href: conf2024.qmd
       - text: "2024 Speakers"
         href: speakers2024.qmd
+      - text: "2024 Data Blitz"
+        href: datablitz2024.qmd
       - text: "Meeting Archive"
         href: archive.qmd
       - text: "Datathon Workshop"
