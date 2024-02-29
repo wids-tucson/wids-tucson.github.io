@@ -16,7 +16,7 @@ editor: visual
 :::
 
 | Time               | Session                    | Title | Speaker(s) | Location           |
-|--------------|-----------------|--------------|--------------|--------------|
+|--------------------|----------------------------|-------|------------|--------------------|
 | 8:30am - 9:00am    | Opening                    |       |            | In person & online |
 | 9:00am - 9:45am    | Morning Keynote            | TBD   | TBD        | In person & online |
 | 9:50am - 10:05am   | Morning Talks              | TBD   | TBD        | In person & online |
