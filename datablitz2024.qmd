@@ -6,13 +6,13 @@ editor: visual
 
 #### 🗓️ Date 3/29/24
 
-#### ⏰ Time  10:50-11 a.m.
+#### ⏰ Time 10:50-11 a.m.
 
 \
 
-The WIDS Tucson Data Blitz sessions will be *short* (3-minute) talks from members of the WIDS community. A slide template will be provided - you just need to tell us about your exciting work! 
+The WIDS Tucson Data Blitz sessions will be *short* (3-minute) talks from members of the WIDS community. A slide template will be provided - you just need to tell us about your exciting work!
 
-We will have a morning session and, if needed, an additional afternoon session.
+We will have a morning session and, if needed, an additional afternoon session. Within each session, attendees will vote on their favorite talks. This will be a low-stakes opportunity to get recognition for your presentations!
 
 ::: callout-important
 ## [Interested in presenting? Sign up here before March 8!](https://forms.gle/tPX64pkdqYawKZEV8)
