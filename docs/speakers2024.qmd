@@ -1,8 +1,0 @@
----
-title: "2024 Speakers"
-format: html
-editor: visual
-toc: false
----
-
-# Soon to be added!
