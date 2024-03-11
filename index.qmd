@@ -23,4 +23,4 @@ The purpose of the WiDS conference is to inspire and educate data scientists wor
 
 [Register to attend the Event!](https://forms.gle/ttzf3MyogJuCNAeD9){target="_blank"}
 
-[Sign up to present at the Data Blitz!](https://forms.gle/gsJPpNThczgRnUE66){target="_blank"} _Sign-up deadline: March 8, 2024._
+[Sign up to present at the Data Blitz!](https://forms.gle/gsJPpNThczgRnUE66){target="_blank"} _Sign-up deadline: March 15, 2024._
