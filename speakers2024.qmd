@@ -1,6 +1,8 @@
 ---
 title: "2024 Speakers"
-format: html
+format: 
+  html:
+    css: speakers.css
 editor: visual
 toc: false
 ---
@@ -10,23 +12,19 @@ toc: false
 ------------------------------------------------------------------------
 
 ::: columns
-::: {.column width="20%"}
+::: {.column width="23%"}
 ![](headshots/EllenRiloff-headshot.jpg){fig-align="center"}
 :::
 
-::: {.column width="10%"}
+::: {.column width="4%"}
 :::
 
-::: {.column width="70%"}
+::: {.column width="73%"}
 #### Ellen Riloff
 
 Professor and Department Head, Computer Science, University of Arizona
 :::
 :::
-
-#### Ellen Riloff
-
-Professor and Department Head, Computer Science, University of Arizona
 
 #### Angela Cruze
 
@@ -36,17 +34,39 @@ Director of Programming & Operations, Institute for Computation & Data-Enabled I
 
 ------------------------------------------------------------------------
 
+::: columns
+::: {.column width="23%"}
+![](headshots/xinchen_profile.jpg){fig-align="center"}
+:::
+
+::: {.column width="4%"}
+:::
+
+::: {.column width="73%"}
 #### Xinchen Yu
 
 I am an Assistant Professor of Practice in the Computer Science Department at University of Arizona. I received my Ph.D. from University of North Texas in 2023. My research interests lie at the intersection of natural language processing (NLP) and Computational Social Science (CSS). Specifically, I am passionate about utilizing data-driven methods to support online safety and facilitate communications between people.
+:::
+:::
 
 #### Valeria Pfeifer
 
 I am a postdoctoral researcher studying language using a neuro-cognitive and a phenomenological lens. Specifically, my research aims to understand what language reveals about a speaker beyond its linguistic content, for example emotional or cognitive states. I currently work at the Naturalistic Observation of Social Interaction Lab in the Psychology Department at the University of Arizona, where I also obtained a Ph.D. in Psychology in 2022. Beyond research, I am involved in the Research Bazaar data science community.
 
+::: columns
+::: {.column width="23%"}
+![](headshots/bledsoe.jpg){fig-align="center"}
+:::
+
+::: {.column width="4%"}
+:::
+
+::: {.column width="73%"}
 #### Ellen Bledsoe
 
 Ellen Bledsoe is an Assistant Professor of Practice in the School of Natural Resources and the Environment at the University of Arizona. She teaches primarily undergraduate courses with data science components (data management in spreadsheet, introduction to R, etc.). Ellen is trained as a community ecologist; during her PhD, she studied long-term dynamics of desert rodents in the Chiricahuas and is happy she has landed back in the Arizona desert.
+:::
+:::
 
 #### Gondy Leroy
 
@@ -71,9 +91,21 @@ Natalie Raia is a Postdoctoral Research Associate in the School of Information a
 :::
 :::
 
+::: columns
+::: {.column width="23%"}
+![](headshots/Altharthi_Dalal.jpg){fig-align="center"}
+:::
+
+::: {.column width="4%"}
+:::
+
+::: {.column width="73%"}
 #### Dalal Alharthi
 
 Dr. Dalal Alharthi is an Assistant Professor in the Cyber, Intelligence, and Information Operations (CIIO) Department at the University of Arizona. Holding a Ph.D. in Computer Science from the University of California, Irvine, and dual master’s degrees, her academic credentials are as broad as they are deep. Before transitioning to academia, Dr. Alharthi gained valuable hands-on experience in the cybersecurity industry through roles such as a Cloud Security Engineer at Farmers Insurance, a Resident Engineer at Palo Alto Networks, and a Prisma Cloud Consultant at Dell. Her professional journey has spanned several countries, providing her with a rich perspective from working in both Eastern and Western contexts. This diverse experience, combined with her significant contributions to both industry and academia, has equipped her with a unique insight into the field of cybersecurity. Dr. Alharthi is dedicated to sharing her knowledge, focusing on the development and education of the next generation of cybersecurity professionals in this rapidly changing discipline, while also actively promoting diversity and inclusion to bridge the gender gap in STEM fields and create a more equitable and vibrant scientific community.
+:::
+:::
+
 
 #### Angela Marquez
 
