@@ -10,6 +10,6 @@ This Tucson WIDS meeting aims to further build the community around women in Dat
 
 Women in the data science community are invited to present talks and participate in panels about their projects. Anyone who is interested in attending the meeting is welcome and encouraged to do so.
 
-There is no registration fee, but participants need to register by **Friday March 29, 2024 at 8:30am MST** to allow for planning logistics. This meeting will be entirely online hosted on Zoom, with some of the speakers in the morning also in person on the University of Arizona on campus.
+There is no registration fee, but participants need to register by **Friday March 29, 2024 at 8:30am MST** to allow for planning logistics. Please register with [this form](https://forms.gle/JFVTo8dwem1JSFaY6). This meeting will be entirely online hosted on Zoom, with some of the speakers in the morning also in person on the University of Arizona on campus.
 
 Find past meeting agendas in [Meeting Archive](https://wids-tucson.github.io/archive.html).
