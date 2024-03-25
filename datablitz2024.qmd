@@ -17,3 +17,20 @@ We will have a morning session and, if needed, an additional afternoon session. 
 ::: callout-important
 ## [Interested in presenting? Sign up here before March 15!](https://forms.gle/tPX64pkdqYawKZEV8)
 :::
+
+| Talk Title                                                                                                                              | Speaker             |
+|---------------------------------------------------------|---------------|
+| Predicting the health outcomes from genome sequence                                                                                     | Sadaf Raoufi        |
+| Integrating Genetics and Machine Learning to Understand ALS Susceptibility                                                              | Martha Bhattacharya |
+| AI driven cyber physical systems in safety                                                                                              | Nathalie Risso      |
+| Patient sentiment: an emerging measure of pain-related mental state using language AI                                                   | Koeun Lim           |
+| Less Sleep During the Wake Cycle After Repeated Closed Head Injury                                                                      | Kyli McQueen        |
+| Ethical Data Mining- Deciphering Social Media Sentiments with NLP & GenAI                                                               | Aditi Pala          |
+| An Analysis of Flight Delays in New York City from 2013                                                                                 | Stephanie Marbella  |
+| Using DNA from Water to Study Endangered Sharks                                                                                         | Eldridge Wisely     |
+| Development of Cohort Analytics                                                                                                         | Kristi Manasil      |
+| A Bayesian Gaussian Graphical Model with Embedded Dirichlet Process Mixture Model Approach to Estimating Neural Functional Connectivity | Julia Fisher        |
+| Extracting geographic names as wikidata entities from scientific article abstracts using zero-shot learning                             | Sarah Bratt         |
+| Feel Flows                                                                                                                              | Ava Naffah          |
+| Using genomic data to conserve native species                                                                                           | Lanie Galland       |
+: {tbl-colwidths="[70,30]"}
