@@ -19,29 +19,17 @@ The entire conference will be virtual friendly.
 
 If you join us in person or for the watch party, we will be located in **Main Library Room B252/254** ([map](https://lib.arizona.edu/sites/default/files/main-floor2.pdf)). We will also be providing lunch, so be on the lookout for a sign-up form!
 
-::: columns
-::: {.column width="15%"}
-:::
+Zoom room passcodes will be emailed to all registrants!
 
-::: {.column width="30%"}
-*Room A*
-
--   In person: room B254
-
--   Zoom link:
-:::
-
-::: {.column width="10%"}
-:::
-
-::: {.column width="30%"}
-*Room B*
-
--   In person: room B252
-
--   Zoom link:
-:::
-:::
++-------------------------+------------------------------------------+
+| Room                    | Zoom link                                |
++=========================+==========================================+
+| *A*                     | <https://arizona.zoom.us/j/86110737075>  |
++-------------------------+------------------------------------------+
+| *B (morning)*           | <https://arizona.zoom.us/j/83165038123>  |
++-------------------------+------------------------------------------+
+| *B (afternoon)*         | <https://arizona.zoom.us/s/84370592126>  |
++-------------------------+------------------------------------------+
 
 +-------------------+-------------------------------------+--------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------+-----------------------------------------------------------+
 | Time              | Session                             | Title                                                                                      | Speaker(s)                                                                      | Location                                                  |
@@ -88,9 +76,9 @@ If you join us in person or for the watch party, we will be located in **Main Li
 +-------------------+-------------------------------------+--------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------+-----------------------------------------------------------+
 | 12:20pm - 12:30pm | Break                               | \-                                                                                         | \-                                                                              |                                                           |
 +-------------------+-------------------------------------+--------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------+-----------------------------------------------------------+
-| 12:30pm - 1:00pm  | Lunch + Birds of a Feather sessions | topics to be announced soon!                                                               | \-                                                                              | Online & in person                                        |
-|                   |                                     |                                                                                            |                                                                                 |                                                           |
-|                   |                                     |                                                                                            |                                                                                 | *Rooms A & B*                                             |
+| 12:30pm - 1:00pm  | Lunch + Birds of a Feather sessions | 1.  Data science jobs/careers                                                              | \-                                                                              | Online & in person                                        |
+|                   |                                     | 2.  AI                                                                                     |                                                                                 |                                                           |
+|                   |                                     | 3.  Dealing with stereotypes and implict bias                                              |                                                                                 | *Rooms A & B*                                             |
 +-------------------+-------------------------------------+--------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------+-----------------------------------------------------------+
 | 1:00pm - 1:45pm   | Afternoon Keynote                   | Recognizing Implicit Emotions in Text Data                                                 | Ellen Riloff                                                                    | Online (optional in-person watch party)                   |
 |                   |                                     |                                                                                            |                                                                                 |                                                           |
