@@ -1,3 +1,9 @@
+---
+format: html
+editor: visual
+title: "Join the Community"
+---
+
 WiDS Tucson would not be possible without the amazing data science community at the University of Arizona and in the local Tucson community. If you'd like to get involved, here are some great ways:
 
 - Sign up for the Annual [<b><i>Research Bazaar unConference</b></i>](https://researchbazaar.arizona.edu/resbaz/resbazTucson2022/)  to learn more data science skills
