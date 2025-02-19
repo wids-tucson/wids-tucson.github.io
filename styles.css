@@ -27,6 +27,10 @@ h1, h2, h3, h4, h5, h6 {
   color: $black;
 }
 
+.center h1, h2 {
+    text-align: center;
+}
+
 h3 {
   font-size: 35px;
 }
