@@ -6,17 +6,17 @@ title: "Join the Community"
 
 WiDS Tucson would not be possible without the amazing data science community at the University of Arizona and in the local Tucson community. If you'd like to get involved, here are some great ways:
 
-- Sign up for the Annual [<b><i>Research Bazaar unConference</b></i>](https://researchbazaar.arizona.edu/resbaz/resbazTucson2022/)  to learn more data science skills
-- Attend [<b><i>'Coffee & Code'</b></i>](http://researchbazaar.arizona.edu/) virtually on Tuesday mornings with Research Bazaar Arizona to chat about coding and get help! 
-- Attend [<b><i>'Hacky Hour'</b></i>](http://researchbazaar.arizona.edu/) on Thursdays on the Unviersity of Arizona campus at Snakes and Lattes with Research Bazaar Arizona. Discuss research, brainstorm new ideas, try out new technologies, or chit chat about data science with other community members!
-- Follow the [<b><i>Data Science Institute Calendar</b></i>](https://datascience.arizona.edu/calendar) to find out about new data science events on campus
-- Find specific resources for data management, data science & visualization, and geospatial data at the [<b><i>UA Data Cooperative </b></i>](https://data.library.arizona.edu/)
-- Contact your college's [<b><i>Data Science Ambassador</b></i>](https://datascience.arizona.edu/ambassadors) for discipline specific information
-- Better yet, if you're a graduate student, [<b><i>apply to become a data science ambassador</b></i>](http://datascience.arizona.edu/ambassadors/data-science-ambassadors-program)  for your college! deadline May 1st
-- Join the UA Office of Digital Innovation and Stewardship's [<b><i>Data Management Listserv</b></i>](https://list.arizona.edu/sympa/info/data_management)
-- Join the [<b><i>UA WiDS listserv</b></i>](https://list.arizona.edu/sympa/info/datasci-women)
-- Join the [<b><i>UA Women in Stem listserv</b></i>](https://list.arizona.edu/sympa/info/womeninstem) 
-- Join [<b><i>R-Ladies Tucson</b></i>](https://www.meetup.com/rladies-tucson-az/) if you love R, no matter your skill-level
-- Join the [<b><i>Tucson Python Meet-up</b></i>](https://www.meetup.com/Tucson-Python-Meetup/) if you love Python, no matter your skill-level
+-   Sign up for the Annual [<b><i>Research ](https://researchbazaar.arizona.edu/resbaz/resbazTucson2022/)[Bazaar](https://researchbazaar.arizona.edu/)[unConference\</b\>\</i\>](https://researchbazaar.arizona.edu/#resbaz-festival) to learn more data science skills
+-   Attend [<b><i>'Coffee & ](http://researchbazaar.arizona.edu/)[Code](https://researchbazaar.arizona.edu/#coffee-and-code)['</b></i>](http://researchbazaar.arizona.edu/) virtually on Tuesday mornings with Research Bazaar Arizona to chat about coding and get help!
+-   Attend [<b><i>'Hacky Hour'</b></i>](https://researchbazaar.arizona.edu/#hacky-hour) on Thursdays on the Unviersity of Arizona campus at Snakes and Lattes with Research Bazaar Arizona. Discuss research, brainstorm new ideas, try out new technologies, or chit chat about data science with other community members!
+-   Follow the [<b><i>Data Science Institute Calendar</b></i>](https://datascience.arizona.edu/calendar) to find out about new data science events on campus
+-   Find specific resources for data management, data science & visualization, and geospatial data at the [<b><i>UA Data Cooperative </b></i>](https://data.library.arizona.edu/)
+-   Contact your college's [<b><i>Data Science Ambassador</b></i>](https://datascience.arizona.edu/ambassadors) for discipline specific information
+-   Better yet, if you're a graduate student, [<b><i>apply to become a data science ambassador</b></i>](http://datascience.arizona.edu/ambassadors/data-science-ambassadors-program) for your college! deadline May 1st
+-   Join the UA Office of Digital Innovation and Stewardship's [<b><i>Data Management Listserv</b></i>](https://list.arizona.edu/sympa/info/data_management)
+-   Join the [<b><i>UA WiDS listserv</b></i>](https://list.arizona.edu/sympa/info/datasci-women)
+-   Join the [<b><i>UA Women in Stem listserv</b></i>](https://list.arizona.edu/sympa/info/womeninstem)
+-   Join [<b><i>R-Ladies Tucson</b></i>](https://www.meetup.com/rladies-tucson-az/) if you love R, no matter your skill-level
+-   Join the [<b><i>Tucson Python Meet-up</b></i>](https://www.meetup.com/Tucson-Python-Meetup/) if you love Python, no matter your skill-level
 
-Still stuck on how to join the community? Any WiDS staff can help you find your place because you belong! 
+Still stuck on how to join the community? Any WiDS staff can help you find your place because you belong!
