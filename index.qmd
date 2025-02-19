@@ -21,6 +21,5 @@ WiDS Tucson is independently organized by the University of Arizona to be part o
 
 The purpose of the WiDS conference is to inspire and educate data scientists worldwide, regardless of gender, and to support women in the field. This one-day technical conference provides an opportunity to hear about the latest data science related research and applications in a number of domains, and connect with others in the field.
 
-[Register to attend the Event!](https://forms.gle/ttzf3MyogJuCNAeD9){target="_blank"}
+2025 Event Coming Soon!
 
-[Sign up to present at the Data Blitz!](https://forms.gle/gsJPpNThczgRnUE66){target="_blank"} _Sign-up deadline: March 15, 2024._

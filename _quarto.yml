@@ -3,31 +3,26 @@ project:
   output-dir: docs
 
 website:
+  image: "images/WiDS-line1-3.png"
   navbar:
     pinned: true
     title: " "
-    logo-alt: "TBD"
+    logo-alt: "Three left facing silohettes of faces in yellow green and blue and the words Women in Data Science Worldwide Tucson"
     right:
-      - text: "About"
-        href: about.qmd
-      - text: "2024 Conference"
-        href: conf2024.qmd
-      - text: "2024 Speakers"
-        href: speakers2024.qmd
-      - text: "2024 Data Blitz"
-        href: datablitz2024.qmd
+      - text: "WiDS Tucson Conference"
+        menu:
+          - about.qmd
+          - text: "About the Organizers"
+            href: organizers.qmd
+      - text: "Join the Community"
+        menu:
+          - community.qmd
+          - text: "Code of Conduct"
+            href: conduct.qmd
+      - text: "2025 Conference"
+        href: conf2025.qmd
       - text: "Meeting Archive"
         href: archive.qmd
-      - text: "Datathon Workshop"
-        href: datathon2024.qmd    
-      - text: "About the Organizers"
-        href: organizers.qmd
-      - text: "Event Sponsors"
-        href: sponsors.qmd
-      - text: "Join the Community"
-        href: community.qmd
-      - text: "Code of Conduct"
-        href: conduct.qmd
       - icon: github
         href: https://github.com/wids-tucson/wids-tucson.github.io
 

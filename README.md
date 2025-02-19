@@ -1,6 +1,6 @@
 ## Welcome
 
-This repository hosts a Quarto built WiDS Tucson website made with the intention of allowing for community invovlement.
+This repository hosts a Quarto built WiDS Tucson website made with the intention of allowing for community involvement.
 
 #### Contributing
 
