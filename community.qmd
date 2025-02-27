@@ -6,7 +6,7 @@ title: "Join the Community"
 
 WiDS Tucson would not be possible without the amazing data science community at the University of Arizona and in the local Tucson community. If you'd like to get involved, here are some great ways:
 
--   Sign up for the Annual [<b><i>Research Bazaar unConference\</b\>\</i\>](https://researchbazaar.arizona.edu/#resbaz-festival) to learn more data science skills
+-   Sign up for the Annual [<b><i>Research Bazaar unConference</b></i>](https://researchbazaar.arizona.edu/#resbaz-festival) to learn more data science skills
 -   Attend [<b><i>'Coffee & Code'</b></i>](https://researchbazaar.arizona.edu/#coffee-and-code) virtually on Tuesday mornings with Research Bazaar Arizona to chat about coding and get help!
 -   Attend [<b><i>'Hacky Hour'</b></i>](https://researchbazaar.arizona.edu/#hacky-hour) on Thursdays on the Unviersity of Arizona campus at Snakes and Lattes with Research Bazaar Arizona. Discuss research, brainstorm new ideas, try out new technologies, or chit chat about data science with other community members!
 -   Follow the [<b><i>Data Science Institute Calendar</b></i>](https://datascience.arizona.edu/calendar) to find out about new data science events on campus
