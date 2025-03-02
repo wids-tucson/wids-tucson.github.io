@@ -2,28 +2,32 @@
 toc: false
 ---
 
-### 2024 Organizational Team
+### 2025 Organizational Team
 
 The WiDS Tucson organizational team meets regularly throughout the spring semester. Email us at [wids.tucson\@gmail.com](wids.tucson@gmail.com) at any time to join an organizational committee. We look forward to working with you!
 
 #### Co-ambassadors
 
-Kristina Riemer, Adriana Picoral
+Kristina Riemer, Angela Cruze
 
 #### Sub-committee Members
 
-###### [Concurrent Talks]{.underline}
+###### [Invited Speakers]{.underline}
 
-Sarah Bratt, Stephanie Murphy
+Angela Cruze, Xinchen Yu
 
 ###### [Panels]{.underline}
 
-Salena Ashton, Heather Froehlich
+Mary Ahern, Heather Froehlich, Xinchen Yu
 
 ###### [Data Blitz]{.underline}
 
-Sarah Stueve, Renata Diaz
+Angela Cruze
+
+###### [Communications]{.underline}
+
+Heidi Steiner, Kristina Riemer
 
 ### WiDS Tucson Community
 
-Angela Cruze, Cas Laskowski, Stephanie Doster, Ariel Fisher, Tina Johnson, Betül Czerkawski
+Sarah Bratt, Stephanie Doster, Ariel Fisher, Anna Leach, Deepsana Shahi, Salena Torres
