@@ -3,6 +3,12 @@ project:
   output-dir: docs
 
 website:
+  announcement: 
+    icon: balloon-fill
+    dismissable: true
+    content: "**It's time!** - WiDS Tucson 2025 is here! Check out the 2025 Conference tab for more info."
+    type: primary
+    position: below-navbar
   image: "images/WiDS-line1-3.png"
   navbar:
     pinned: true

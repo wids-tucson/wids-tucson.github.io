@@ -54,3 +54,6 @@ body {
 }
 
 
+.announcement-primary {
+  color: $light-green;
+}
