@@ -7,13 +7,13 @@ format:
 editor: visual
 ---
 
-# WiDS Tucson presents:  {.center}
+# WiDS Tucson presents: {.center}
 
-::: center
-## Living in the ever changing landscape of data
-:::
+#### Living in the ever changing landscape of data {.center}
 
-with a [keynote] address by Catherine D'Ignazio,
+\
+
+**with [Keynote Speaker] Catherine D'Ignazio,**
 
 and learning tracks that include:
 
@@ -30,5 +30,16 @@ and learning tracks that include:
 :::
 
 ### Keynote Speaker
+\
+[Catherine D’Ignazio](https://kanarinka.com/) is an Associate Professor of Urban Science and Planning in the Department of Urban Studies and Planning at MIT. She is also Director of the [Data + Feminism Lab](http://dataplusfeminism.mit.edu/) which uses data and computational methods to work towards gender and racial justice. D’Ignazio is a scholar, artist/designer and hacker mama who focuses on feminist technology, data literacy and civic engagement. Her 2020 book from MIT Press, [Data Feminism](https://bookbook.pubpub.org/data-feminism), co-authored with Lauren Klein, charts a course for more ethical and empowering data science practices. Since 2019, she has co-organized [Data Against Feminicide](http://datoscontrafeminicidio.net/), a participatory action-research-design project, with Isadora Cruxên, Silvana Fumega and Helena Suárez Val, which includes co-designed AI tools for human rights data activists. Her 2024 book, [Counting Feminicide: Data Feminism in Action](https://mitpress.mit.edu/9780262048873/counting-feminicide/) (MIT Press) is an extended case study about grassroots data activism to end gender-related violence. D'Ignazio's research at the intersection of technology, design & social justice has been published in the Big Data & Society, the Journal of Community Informatics, and the proceedings of ACM SIGCHI and ACM FAccT. Her art and design projects have won awards from the Tanne Foundation, Turbulence.org and the Knight Foundation and exhibited at the Venice Biennial and the ICA Boston.
 
-[Catherine D’Ignazio](https://kanarinka.com/) is an Associate Professor of Urban Science and Planning in the Department of Urban Studies and Planning at MIT. She is also Director of the[ Data + Feminism Lab](http://dataplusfeminism.mit.edu/) which uses data and computational methods to work towards gender and racial justice. D’Ignazio is a scholar, artist/designer and hacker mama who focuses on feminist technology, data literacy and civic engagement. Her 2020 book from MIT Press,[ Data Feminism](https://bookbook.pubpub.org/data-feminism), co-authored with Lauren Klein, charts a course for more ethical and empowering data science practices. Since 2019, she has co-organized[ Data Against Feminicide](http://datoscontrafeminicidio.net/), a participatory action-research-design project, with Isadora Cruxên, Silvana Fumega and Helena Suárez Val, which includes co-designed AI tools for human rights data activists. Her 2024 book,[ Counting Feminicide: Data Feminism in Action](https://mitpress.mit.edu/9780262048873/counting-feminicide/) (MIT Press) is an extended case study about grassroots data activism to end gender-related violence. D'Ignazio's research at the intersection of technology, design & social justice has been published in the Big Data & Society, the Journal of Community Informatics, and the proceedings of ACM SIGCHI and ACM FAccT. Her art and design projects have won awards from the Tanne Foundation, Turbulence.org and the Knight Foundation and exhibited at the Venice Biennial and the ICA Boston.
+::: column-margin
+![](images/CatherineD-Square.webp)
+:::
+
+
+### Panels 
+TBD
+
+### Data Blitz
+TBD
