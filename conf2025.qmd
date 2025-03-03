@@ -26,10 +26,11 @@ and learning tracks that include:
 
 #### 🗓 Friday March 28, 2025
 
-#### ⏰ TBD
+#### ⏰ 9am-5pm
 :::
 
 ### Keynote Speaker
+
 \
 [Catherine D’Ignazio](https://kanarinka.com/) is an Associate Professor of Urban Science and Planning in the Department of Urban Studies and Planning at MIT. She is also Director of the [Data + Feminism Lab](http://dataplusfeminism.mit.edu/) which uses data and computational methods to work towards gender and racial justice. D’Ignazio is a scholar, artist/designer and hacker mama who focuses on feminist technology, data literacy and civic engagement. Her 2020 book from MIT Press, [Data Feminism](https://bookbook.pubpub.org/data-feminism), co-authored with Lauren Klein, charts a course for more ethical and empowering data science practices. Since 2019, she has co-organized [Data Against Feminicide](http://datoscontrafeminicidio.net/), a participatory action-research-design project, with Isadora Cruxên, Silvana Fumega and Helena Suárez Val, which includes co-designed AI tools for human rights data activists. Her 2024 book, [Counting Feminicide: Data Feminism in Action](https://mitpress.mit.edu/9780262048873/counting-feminicide/) (MIT Press) is an extended case study about grassroots data activism to end gender-related violence. D'Ignazio's research at the intersection of technology, design & social justice has been published in the Big Data & Society, the Journal of Community Informatics, and the proceedings of ACM SIGCHI and ACM FAccT. Her art and design projects have won awards from the Tanne Foundation, Turbulence.org and the Knight Foundation and exhibited at the Venice Biennial and the ICA Boston.
 
@@ -37,9 +38,12 @@ and learning tracks that include:
 ![](images/CatherineD-Square.webp)
 :::
 
+### Panels
 
-### Panels 
-TBD
+**GenAI and Automation** (AM)
+
+**Professional Skills + Tips for Breaking into the ever-changing field of Data Science** (PM)
 
 ### Data Blitz
-TBD
+
+Presenters will give a 3-minute overview of their research using three slides (template will be provided) discussing their research problem and the tools or approach used to solve the problem

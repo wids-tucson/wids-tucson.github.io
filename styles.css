@@ -16,6 +16,7 @@ $navbar-hl: $light-green;
 $footer-bg: $purple; 
 $link-color: $green;
 $callout-color-important: $purple;
+$primary: $light-green;
 
 /*-- scss:rules --*/
 
@@ -54,6 +55,3 @@ body {
 }
 
 
-.announcement-primary {
-  color: $light-green;
-}
