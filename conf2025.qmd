@@ -22,11 +22,11 @@ and learning tracks that include:
 2.  *Professional, leadership, and networking*: talks on professional growth & development, career paths, building community & networks, and advice for building skills for an uncertain future
 
 ::: callout-important
-#### Registration coming soon!
+#### [Register now!](https://forms.gle/q9ukoSXc34qd2XJp9)
 
-#### 🗓 Friday March 28, 2025
+##### 🗓 Friday March 28, 2025
 
-#### ⏰ 9am-5pm
+##### ⏰ 9am-5pm
 :::
 
 ### Keynote Speaker
@@ -43,7 +43,3 @@ and learning tracks that include:
 **GenAI and Automation** (AM)
 
 **Professional Skills + Tips for Breaking into the ever-changing field of Data Science** (PM)
-
-### Data Blitz
-
-Presenters will give a 3-minute overview of their research using three slides (template will be provided) discussing their research problem and the tools or approach used to solve the problem
