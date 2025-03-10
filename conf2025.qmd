@@ -38,6 +38,10 @@ and learning tracks that include:
 ![](images/CatherineD-Square.webp)
 :::
 
+### Speakers
+
+Salena Torres Ashton, Jung Mee Park, Laura Falk, Xuan Lu, Dianne Patterson, Desiree Andersen
+
 ### Panels
 
 **GenAI and Automation** (AM)
