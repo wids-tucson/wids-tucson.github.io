@@ -14,6 +14,8 @@ editor: visual
 ##### 🗓 Friday March 28, 2025
 
 ##### ⏰ 9am-5pm
+
+##### 📌 [ENR2](https://air.arizona.edu/enr2) S215
 :::
 
 # WiDS Tucson presents: {.center}
@@ -29,18 +31,33 @@ editor: visual
 
 Except for where noted, **this conference can be attended either in person or virtually via Zoom** (link shared upon [registration](https://forms.gle/q9ukoSXc34qd2XJp9))
 
-|                                             |                                   |                                                                                                                |
-|-----------------|-----------------|---------------------------------------|
-| **Time**                                    | **Event**                         | **Speaker**                                                                                                    |
-| [9:00am - 9:45am:]{style="color:#0caacf;"}  | [Keynote]{style="color:#0caacf;"} | [Catherine D'Ignazio]{style="color:#0caacf;"}                                                                  |
-| 10:00am - 11:00am:                          | Invited Speakers                  |                                                                                                                |
-| 11:00am - 11:30am:                          | Data Blitz                        | [Sign up to give a talk!](https://forms.gle/8d3rhS5hLjnn2q8K6)                                                 |
-| [1:30am - 12:30pm:]{style="color:#0caacf;"} | [Panel]{style="color:#0caacf;"}   | [Gen AI and Automation]{style="color:#0caacf;"}                                                                |
-| 12:30pm - 1:00pm                            | Lunch                             | Break                                                                                                          |
-| [1:00pm - 2:00pm]{style="color:#0caacf;"}   | [Panel]{style="color:#0caacf;"}   | [Professional Skills + Tips for Breaking into the ever-changing field of Data Science]{style="color:#0caacf;"} |
-| 2:00pm - 3:00 pm                            | Invited Speakers                  |                                                                                                                |
-| 3:00pm - 3:30pm                             | Data Blitz                        | [Sign up to give a talk!](https://forms.gle/8d3rhS5hLjnn2q8K6)                                                 |
-| [4:00pm - 6:00pm]{style="color:#0caacf;"}   | [Social]{style="color:#0caacf;"}  | [Stay Tuned!]{style="color:#0caacf;"}                                                                          |
++------------------------------------------------+--------------------------------------------+----------------------------------------------------------------------------------------------------------------+
+| **Time**                                       | **Event**                                  | **Speaker**                                                                                                    |
++------------------------------------------------+--------------------------------------------+----------------------------------------------------------------------------------------------------------------+
+| [\~8:45am - 9:00am]{style="color:#0caacf"}     | [Arrival + Welcome]{style="color:#0caacf"} | [Coffee + Pastries provided]{style="color:#0caacf"}                                                            |
++------------------------------------------------+--------------------------------------------+----------------------------------------------------------------------------------------------------------------+
+| [**9:00am - 9:45am:**]{style="color:#0caacf;"} | [**Keynote**]{style="color:#0caacf;"}      | [**Catherine D'Ignazio**]{style="color:#0caacf;"}                                                              |
++------------------------------------------------+--------------------------------------------+----------------------------------------------------------------------------------------------------------------+
+| 10:00am - 11:00am:                             | Invited Speakers                           |                                                                                                                |
++------------------------------------------------+--------------------------------------------+----------------------------------------------------------------------------------------------------------------+
+| 11:00am - 11:30am:                             | Data Blitz                                 | [Sign up to give a talk!](https://forms.gle/8d3rhS5hLjnn2q8K6)                                                 |
++------------------------------------------------+--------------------------------------------+----------------------------------------------------------------------------------------------------------------+
+| [1:30am - 12:30pm:]{style="color:#0caacf;"}    | [Panel]{style="color:#0caacf;"}            | [Gen AI and Automation]{style="color:#0caacf;"}                                                                |
++------------------------------------------------+--------------------------------------------+----------------------------------------------------------------------------------------------------------------+
+| 12:30pm - 1:00pm                               | Lunch                                      | Break                                                                                                          |
+|                                                |                                            |                                                                                                                |
+|                                                |                                            | [Lunch provided at ENR2]{style="color:#0caacf"}                                                                |
++------------------------------------------------+--------------------------------------------+----------------------------------------------------------------------------------------------------------------+
+| [1:00pm - 2:00pm]{style="color:#0caacf;"}      | [Panel]{style="color:#0caacf;"}            | [Professional Skills + Tips for Breaking into the ever-changing field of Data Science]{style="color:#0caacf;"} |
++------------------------------------------------+--------------------------------------------+----------------------------------------------------------------------------------------------------------------+
+| 2:00pm - 3:00 pm                               | Invited Speakers                           |                                                                                                                |
++------------------------------------------------+--------------------------------------------+----------------------------------------------------------------------------------------------------------------+
+| 3:00pm - 3:30pm                                | Data Blitz                                 | [Sign up to give a talk!](https://forms.gle/8d3rhS5hLjnn2q8K6)                                                 |
++------------------------------------------------+--------------------------------------------+----------------------------------------------------------------------------------------------------------------+
+| [4:00pm - 6:00pm]{style="color:#0caacf;"}      | [Social]{style="color:#0caacf;"}           | [\@ [Snakes and Lattes](https://www.snakesandlattes.com/tucson)]{style="color:#0caacf"}                        |
+|                                                |                                            |                                                                                                                |
+|                                                |                                            | Bring your own cash for drinks and snacks!                                                                     |
++------------------------------------------------+--------------------------------------------+----------------------------------------------------------------------------------------------------------------+
 
 : {tbl-colwidths="\[30,25,45\]"}
 
@@ -58,18 +75,12 @@ Except for where noted, **this conference can be attended either in person or vi
 
 ## Speakers
 
-Salena Torres Ashton 
-\
-Jung Mee Park 
-\
-Laura Falk 
-\
-Xuan Lu 
-\
-Dianne Patterson 
-\
-Desiree Andersen 
-\
+Salena Torres Ashton\
+Jung Mee Park\
+Laura Falk\
+Xuan Lu\
+Dianne Patterson\
+Desiree Andersen\
 \
 ... more speakers and schedule coming soon!
 
