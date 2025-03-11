@@ -1,25 +1,12 @@
 ---
-toc: false
+title: "WiDS Tucson 2025"
 format: 
   html: 
     tbl-colwidths: [10,20,50,40]
     max-width: 40em
+    toc: false
 editor: visual
 ---
-
-# WiDS Tucson presents: {.center}
-
-#### Living in the ever changing landscape of data {.center}
-
-\
-
-**with [Keynote Speaker] Catherine D'Ignazio,**
-
-and learning tracks that include:
-
-1.  *Technical and tools*: technical sessions (talks + hands-on workshops / teaching sessions) that are focused on tools, techniques, datasets, and problem solving approaches
-
-2.  *Professional, leadership, and networking*: talks on professional growth & development, career paths, building community & networks, and advice for building skills for an uncertain future
 
 ::: callout-important
 #### [Register now!](https://forms.gle/q9ukoSXc34qd2XJp9)
@@ -29,7 +16,38 @@ and learning tracks that include:
 ##### ⏰ 9am-5pm
 :::
 
-### Keynote Speaker
+# WiDS Tucson presents: {.center}
+
+#### Living in the ever changing landscape of data {.center}
+
+#### **with Keynote by Catherine D'Ignazio,** {.center}
+
+\
+
+::: panel-tabset
+## Schedule
+
+Except for where noted, **this conference can be attended either in person or virtually via Zoom** (link shared upon [registration](https://forms.gle/q9ukoSXc34qd2XJp9))
+
+|                                             |                                   |                                                                                                                |
+|-----------------|-----------------|---------------------------------------|
+| **Time**                                    | **Event**                         | **Speaker**                                                                                                    |
+| [9:00am - 9:45am:]{style="color:#0caacf;"}  | [Keynote]{style="color:#0caacf;"} | [Catherine D'Ignazio]{style="color:#0caacf;"}                                                                  |
+| 10:00am - 11:00am:                          | Invited Speakers                  |                                                                                                                |
+| 11:00am - 11:30am:                          | Data Blitz                        | [Sign up to give a talk!](https://forms.gle/8d3rhS5hLjnn2q8K6)                                                 |
+| [1:30am - 12:30pm:]{style="color:#0caacf;"} | [Panel]{style="color:#0caacf;"}   | [Gen AI and Automation]{style="color:#0caacf;"}                                                                |
+| 12:30pm - 1:00pm                            | Lunch                             | Break                                                                                                          |
+| [1:00pm - 2:00pm]{style="color:#0caacf;"}   | [Panel]{style="color:#0caacf;"}   | [Professional Skills + Tips for Breaking into the ever-changing field of Data Science]{style="color:#0caacf;"} |
+| 2:00pm - 3:00 pm                            | Invited Speakers                  |                                                                                                                |
+| 3:00pm - 3:30pm                             | Data Blitz                        | [Sign up to give a talk!](https://forms.gle/8d3rhS5hLjnn2q8K6)                                                 |
+| [4:00pm - 6:00pm]{style="color:#0caacf;"}   | [Social]{style="color:#0caacf;"}  | [Stay Tuned!]{style="color:#0caacf;"}                                                                          |
+
+: {tbl-colwidths="\[30,25,45\]"}
+
+\
+[\*Blue text denotes in-person only sessions]{style="color:#0caacf;"}
+
+## Keynote Speaker
 
 \
 [Catherine D’Ignazio](https://kanarinka.com/) is an Associate Professor of Urban Science and Planning in the Department of Urban Studies and Planning at MIT. She is also Director of the [Data + Feminism Lab](http://dataplusfeminism.mit.edu/) which uses data and computational methods to work towards gender and racial justice. D’Ignazio is a scholar, artist/designer and hacker mama who focuses on feminist technology, data literacy and civic engagement. Her 2020 book from MIT Press, [Data Feminism](https://bookbook.pubpub.org/data-feminism), co-authored with Lauren Klein, charts a course for more ethical and empowering data science practices. Since 2019, she has co-organized [Data Against Feminicide](http://datoscontrafeminicidio.net/), a participatory action-research-design project, with Isadora Cruxên, Silvana Fumega and Helena Suárez Val, which includes co-designed AI tools for human rights data activists. Her 2024 book, [Counting Feminicide: Data Feminism in Action](https://mitpress.mit.edu/9780262048873/counting-feminicide/) (MIT Press) is an extended case study about grassroots data activism to end gender-related violence. D'Ignazio's research at the intersection of technology, design & social justice has been published in the Big Data & Society, the Journal of Community Informatics, and the proceedings of ACM SIGCHI and ACM FAccT. Her art and design projects have won awards from the Tanne Foundation, Turbulence.org and the Knight Foundation and exhibited at the Venice Biennial and the ICA Boston.
@@ -38,12 +56,26 @@ and learning tracks that include:
 ![](images/CatherineD-Square.webp)
 :::
 
-### Speakers
+## Speakers
 
-Salena Torres Ashton, Jung Mee Park, Laura Falk, Xuan Lu, Dianne Patterson, Desiree Andersen
+Salena Torres Ashton 
+\
+Jung Mee Park 
+\
+Laura Falk 
+\
+Xuan Lu 
+\
+Dianne Patterson 
+\
+Desiree Andersen 
+\
+\
+... more speakers and schedule coming soon!
 
-### Panels
+## Panels
 
 **GenAI and Automation** (AM)
 
 **Professional Skills + Tips for Breaking into the ever-changing field of Data Science** (PM)
+:::

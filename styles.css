@@ -8,6 +8,7 @@ $dark-green: #104911;
 $gray: #C1C1C1;
 $purple: #8F6593;
 $black: #000000;
+$blue: #0CAACF;
 
 
 // Base document colors
@@ -31,6 +32,7 @@ h1, h2, h3, h4, h5, h6 {
 .center h1, h2, h3, h4 {
     text-align: center;
 }
+
 
 h3 {
   font-size: 35px;
