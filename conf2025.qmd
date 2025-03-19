@@ -31,33 +31,33 @@ editor: visual
 
 Except for where noted, **this conference can be attended either in person or virtually via Zoom** (link shared upon [registration](https://forms.gle/q9ukoSXc34qd2XJp9))
 
-+------------------------------------------------+--------------------------------------------+-----------------------------------------------------------------------------------------------------+
-| **Time**                                       | **Event**                                  | **Speaker**                                                                                         |
-+------------------------------------------------+--------------------------------------------+-----------------------------------------------------------------------------------------------------+
-| [\~8:45am - 9:00am]{style="color:#0caacf"}     | [Arrival + Welcome]{style="color:#0caacf"} | [Coffee + Pastries provided by University of Arizona Data Science Institute]{style="color:#0caacf"} |
-+------------------------------------------------+--------------------------------------------+-----------------------------------------------------------------------------------------------------+
-| [**9:00am - 9:45am:**]{style="color:#0caacf;"} | [**Keynote**]{style="color:#0caacf;"}      | [**Catherine D'Ignazio**]{style="color:#0caacf;"}                                                   |
-+------------------------------------------------+--------------------------------------------+-----------------------------------------------------------------------------------------------------+
-| 10:00am - 11:00am:                             | Invited Speakers                           |                                                                                                     |
-+------------------------------------------------+--------------------------------------------+-----------------------------------------------------------------------------------------------------+
-| 11:00am - 11:30am:                             | Data Blitz                                 | [Sign up to give a talk!](https://forms.gle/8d3rhS5hLjnn2q8K6)                                      |
-+------------------------------------------------+--------------------------------------------+-----------------------------------------------------------------------------------------------------+
-| [11:30am - 12:30pm:]{style="color:#0caacf;"}   | [Morning Panel]{style="color:#0caacf;"}    | [Meghavarshini (Megh) Krishnaswamy, Xinchen Yu, and Laura Dozal]{style="color:#0caacf;"}            |
-+------------------------------------------------+--------------------------------------------+-----------------------------------------------------------------------------------------------------+
-| 12:30pm - 1:00pm                               | Lunch                                      | Break                                                                                               |
-|                                                |                                            |                                                                                                     |
-|                                                |                                            | [Lunch at ENR2 provided by University of Arizona Data Science Institute]{style="color:#0caacf"}     |
-+------------------------------------------------+--------------------------------------------+-----------------------------------------------------------------------------------------------------+
-| [1:00pm - 2:00pm]{style="color:#0caacf;"}      | [Afternoon Panel]{style="color:#0caacf;"}  | [TBD]{style="color:#0caacf"}                                                                        |
-+------------------------------------------------+--------------------------------------------+-----------------------------------------------------------------------------------------------------+
-| 2:00pm - 3:00 pm                               | Invited Speakers                           |                                                                                                     |
-+------------------------------------------------+--------------------------------------------+-----------------------------------------------------------------------------------------------------+
-| 3:00pm - 3:30pm                                | Data Blitz                                 | [Sign up to give a talk!](https://forms.gle/8d3rhS5hLjnn2q8K6)                                      |
-+------------------------------------------------+--------------------------------------------+-----------------------------------------------------------------------------------------------------+
-| [4:00pm - 6:00pm]{style="color:#0caacf;"}      | [Social]{style="color:#0caacf;"}           | [\@ [Snakes and Lattes](https://www.snakesandlattes.com/tucson)]{style="color:#0caacf"}             |
-|                                                |                                            |                                                                                                     |
-|                                                |                                            | Bring your own cash for drinks and snacks!                                                          |
-+------------------------------------------------+--------------------------------------------+-----------------------------------------------------------------------------------------------------+
++------------------------------------------------+--------------------------------------------+----------------------------------------------------------------------------------------------------------+
+| **Time**                                       | **Event**                                  | **Speaker**                                                                                              |
++------------------------------------------------+--------------------------------------------+----------------------------------------------------------------------------------------------------------+
+| [\~8:45am - 9:00am]{style="color:#0caacf"}     | [Arrival + Welcome]{style="color:#0caacf"} | [Coffee + Pastries provided by University of Arizona Data Science Institute]{style="color:#0caacf"}      |
++------------------------------------------------+--------------------------------------------+----------------------------------------------------------------------------------------------------------+
+| [**9:00am - 9:45am**]{style="color:#0caacf;"}  | [**Keynote**]{style="color:#0caacf;"}      | [**Catherine D'Ignazio**]{style="color:#0caacf;"}                                                        |
++------------------------------------------------+--------------------------------------------+----------------------------------------------------------------------------------------------------------+
+| 10:00am - 11:00am                              | Invited Speakers                           | Ashley Huggins, Laura Falk, Salena Torres Ashton                                                         |
++------------------------------------------------+--------------------------------------------+----------------------------------------------------------------------------------------------------------+
+| 11:00am - 11:30am                              | Data Blitz                                 | [Sign up to give a talk!](https://forms.gle/8d3rhS5hLjnn2q8K6)                                           |
++------------------------------------------------+--------------------------------------------+----------------------------------------------------------------------------------------------------------+
+| [11:30am - 12:30pm]{style="color:#0caacf;"}    | [Morning Panel]{style="color:#0caacf;"}    | [Meghavarshini (Megh) Krishnaswamy, Xinchen Yu, Dalal Alharthi, and Laura Dozal]{style="color:#0caacf;"} |
++------------------------------------------------+--------------------------------------------+----------------------------------------------------------------------------------------------------------+
+| 12:30pm - 1:00pm                               | Lunch                                      | Break                                                                                                    |
+|                                                |                                            |                                                                                                          |
+|                                                |                                            | [Lunch at ENR2 provided by University of Arizona Data Science Institute]{style="color:#0caacf"}          |
++------------------------------------------------+--------------------------------------------+----------------------------------------------------------------------------------------------------------+
+| [1:00pm - 2:00pm]{style="color:#0caacf;"}      | [Afternoon Panel]{style="color:#0caacf;"}  | [Andrea Thomer]{style="color:#0caacf"}                                                                   |
++------------------------------------------------+--------------------------------------------+----------------------------------------------------------------------------------------------------------+
+| 2:00pm - 3:00 pm                               | Invited Speakers                           | Xuan Lu, Dianne Patterson, Jung Mee Park, Desiree Andersen                                               |
++------------------------------------------------+--------------------------------------------+----------------------------------------------------------------------------------------------------------+
+| 3:30pm - 4:00pm                                | Data Blitz TBD                             | [Sign up to give a talk!](https://forms.gle/8d3rhS5hLjnn2q8K6)                                           |
++------------------------------------------------+--------------------------------------------+----------------------------------------------------------------------------------------------------------+
+| [4:00pm - 6:00pm]{style="color:#0caacf;"}      | [Social]{style="color:#0caacf;"}           | [\@ [Snakes and Lattes](https://www.snakesandlattes.com/tucson)]{style="color:#0caacf"}                  |
+|                                                |                                            |                                                                                                          |
+|                                                |                                            | Bring your own cash for drinks and snacks!                                                               |
++------------------------------------------------+--------------------------------------------+----------------------------------------------------------------------------------------------------------+
 
 : {tbl-colwidths="\[30,25,45\]"}
 
@@ -75,67 +75,165 @@ Except for where noted, **this conference can be attended either in person or vi
 
 ## Speakers
 
+:::: {layout="[ 40, 60 ]"}
+
+::: {#first-column}
+
 ### Salena Torres Ashton
+\
+\
 
 ##### What is Probability and Why Does it Matter for Data Science?
 
+:::
+
+::: {#second-column}
+![](images/salena_ashton.png)
+:::
+
+::::
+
+
 Salena Torres Ashton is a first-generation college student at the University of Arizona. She has a MS in Data Science and hopes to complete her PhD in Information Science in 2025. She researches causality and formal semantics in natural language, examining their effects on how people phrase questions. Salena currently teaches 'Introduction to Machine Learning" with the iSchool and serves as a mentor for the Women in Stem and Engineering program at the U of A. Before attending graduate school, Salena worked for over 25 years as a professional genealogist and holds a BA in History. In her free time, she enjoys solo bicycling, backpacking, and gardening.
 
+:::: {layout="[ 40, 60 ]"}
+
+::: {#first-column}
+
 ### Ashley Huggins
+\
 
 ##### Mapping the brain in PTSD: leveraging global, large-scale neuroimaging datasets to identify structural and functional neural markers of posttraumatic stress disorder
+:::
+
+::: {#second-column}
+![](images/ashley_huggins.webp)
+:::
+
+::::
 
 Dr. Ashley Huggins is an Assistant Professor in the Department of Psychology at the University of Arizona, where she directs the Cognition, Affect, and Traumatic Stress (CATS) Lab. She earned her PhD in Clinical Psychology from the University of Wisconsin-Milwaukee. Dr. Huggins is an affective neuroscientist and clinical neuropsychologist whose research focuses on better understand brain-based mechanisms involved in the onset and development of posttraumatic stress disorder (PTSD). Her current projects are centered on how sex hormones and cognitive function affect how our brains learn and remember fear. She is also more broadly interested in how socioenvironmental factors (such as neighborhood disadvantage and exposure to community violence) shape brain health and function.
 
+:::: {layout="[ 40, 60 ]"}
+
+::: {#first-column}
+
 ### Laura Falk
+\
+\
 
 ##### API Key Basics: Unlocking Data Possibilities
 
+:::
+
+::: {#second-column}
+![](images/laura_falk.jpg)
+:::
+
+::::
+
 Laura Falk, MS, is a Data Scientist at the University of Arizona's Mel and Enid Zuckerman College of Public Health, with over a decade of experience in managing and analyzing longitudinal datasets. She specializes in human health surveillance and ecology, and currently works with the Arizona CoVHORT to advance understanding of COVID-19. Laura's professional interests include predictive analytics, data visualization, and the development of consistent, reproducible workflows.
 
+
+:::: {layout="[ 40, 60 ]"}
+
+::: {#first-column}
+
 ### Jung Mee Park
+\
+\
 
 ##### Navigating Data in Public Libraries: Challenges & Opportunities
 
+:::
+
+::: {#second-column}
+![](images/jungmee_park.jpg)
+:::
+
+::::
+
+
 Jung Mee Park is a Young Adult Librarian with the Pima County Public Library. Previously, she worked as an educator and data analyst at the University of Arizona. An award-winning sociologist, she was also a postdoctoral fellow in Korean Studies at the University of Southern California. She holds a PhD in Sociology from Cornell University, an MLIS from the University of Arizona, and an MA in Quantitative Methods in the Social Sciences from Columbia University. Her research has been published in the American Journal of Sociology, International Area Studies Review, and the Journal of Education in Library and Information Science. Her favorite data analysis tool is RStudio.
+
+:::: {layout="[ 40, 60 ]"}
+
+::: {#first-column}
 
 ### Dianne Patterson
 
+\
+\
+
 ##### Three Key Tools for the Future
+
+
+:::
+
+::: {#second-column}
+![](images/dianne_patterson.jpeg)
+:::
+
+::::
 
 Dianne Patterson is the RII staff scientist in support of neuroimaging. Dianne Patterson is also the program coordinator for the Neuroimaging Methods Certificate and an instructor of computational and neuroimaging skills, all under the umbrella of Cognitive Science. Dianne is especially passionate about good teaching and documentation, which is why the phenomenal OpenClass platform is in use for all teaching. Diane is working to develop immersive virtual training opportunities for the University of Arizona.
 
-###  Xuan Lu
+
+:::: {layout="[ 40, 60 ]"}
+
+::: {#first-column}
+
+### Xuan Lu
+
+\
+\
 
 ##### Understanding Emotions in Remote Work: The Link Between Emojis and Long-Term Engagement
 
-Dr. Xuan Lu is a tenure-track assistant professor at the College of Information Science, the University of Arizona. Her research focuses on creating novel methodologies of human-centered data science and using them to understand and optimize the activities and outcomes of our future human society, especially those triggered by technology innovations, with a recent emphasis on the domain of Future of Work. \
+:::
 
-###  Desiree Andersen
+::: {#second-column}
+![](images/xuan_lu.jpg)
+:::
+
+::::
+
+
+Dr. Xuan Lu is a tenure-track assistant professor at the College of Information Science, the University of Arizona. Her research focuses on creating novel methodologies of human-centered data science and using them to understand and optimize the activities and outcomes of our future human society, especially those triggered by technology innovations, with a recent emphasis on the domain of Future of Work.\
+
+
+:::: {layout="[ 40, 60 ]"}
+
+::: {#first-column}
+
+### Desiree Andersen
+\
+\
 
 ##### Predictive Modeling of Mosquito Abundance and West Nile Virus Transmission Dynamics: Insights from a Decade of Surveillance in Arizona
 
-Desiree is a postdoctoral researcher in the Combrink Lab at the University of Arizona, where her work focuses on understanding how ecological systems, climate change, and zoonotic diseases interact. Using spatial simulations, she studies the risks posed by mosquito-borne viruses in Arizona, combining her background in disease modeling with a commitment to developing practical conservation strategies.
+:::
 
-\
-Meghavarshini (Megh) Krishnaswamy\
-Xinchen Yu\
-Laura Dozal\
-\
-... more speakers and schedule coming soon!
+::: {#second-column}
+![](images/desiree_andersen.jpg)
+:::
+
+::::
+
+Desiree is a postdoctoral researcher in the Combrink Lab at the University of Arizona, where her work focuses on understanding how ecological systems, climate change, and zoonotic diseases interact. Using spatial simulations, she studies the risks posed by mosquito-borne viruses in Arizona, combining her background in disease modeling with a commitment to developing practical conservation strategies.
 
 ## Panels
 
 ::: {.callout-note appearance="minimal"}
 AM Topic: **GenAI and Automation**
 
-Panelists: Meghavarshini (Megh) Krishnaswamy, Xinchen Yu, and Laura Dozal
+Panelists: Meghavarshini (Megh) Krishnaswamy, Dalal Alharthi, Xinchen Yu, and Laura Dozal
 :::
 
 ::: {.callout-note appearance="minimal"}
 PM Topic: **Professional Skills + Tips for Breaking into the ever-changing field of Data Science**
 
-Panelists: TBD
+Panelists: Andrea Thomer
 :::
 :::
 
