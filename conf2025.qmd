@@ -20,17 +20,15 @@ editor: visual
 
 # WiDS Tucson presents: {.center}
 
-#### Living in the ever changing landscape of data {.center}
-
-#### **with Keynote by Catherine D'Ignazio,** {.center}
+### Living in the ever changing landscape of data {.center}
 
 \
 
 ::: panel-tabset
 ## Schedule
+
 \
-\
-Except for where noted, **this conference can be attended either in person or virtually via Zoom** (link shared upon [registration](https://forms.gle/q9ukoSXc34qd2XJp9))
+Except for where noted, **this conference can be attended either in person or virtually via Zoom** (link shared upon [registration](https://forms.gle/q9ukoSXc34qd2XJp9))\
 \
 
 +-----------------------------------------------+--------------------------------------------+----------------------------------------------------------------------------------------------------------+
@@ -42,7 +40,7 @@ Except for where noted, **this conference can be attended either in person or vi
 +-----------------------------------------------+--------------------------------------------+----------------------------------------------------------------------------------------------------------+
 | 10:00am - 11:00am                             | Invited Speakers                           | Ashley Huggins, Laura Falk, Salena Torres Ashton                                                         |
 +-----------------------------------------------+--------------------------------------------+----------------------------------------------------------------------------------------------------------+
-| 11:00am - 11:30am                             | Data Blitz                                 | [Sign up to give a talk!](https://forms.gle/8d3rhS5hLjnn2q8K6)                                           |
+| 11:00am - 11:30am                             | Data Blitz                                 | Ashwini Jannu, Delaney Scott-Martin, Liliana Salas, Abadit Weldeslassie, Deandra Jones                   |
 +-----------------------------------------------+--------------------------------------------+----------------------------------------------------------------------------------------------------------+
 | [11:30am - 12:30pm]{style="color:#0caacf;"}   | [Morning Panel]{style="color:#0caacf;"}    | [Meghavarshini (Megh) Krishnaswamy, Xinchen Yu, Dalal Alharthi, and Laura Dozal]{style="color:#0caacf;"} |
 +-----------------------------------------------+--------------------------------------------+----------------------------------------------------------------------------------------------------------+
@@ -54,7 +52,7 @@ Except for where noted, **this conference can be attended either in person or vi
 +-----------------------------------------------+--------------------------------------------+----------------------------------------------------------------------------------------------------------+
 | 2:00pm - 3:00 pm                              | Invited Speakers                           | Xuan Lu, Dianne Patterson, Jung Mee Park, Desiree Andersen                                               |
 +-----------------------------------------------+--------------------------------------------+----------------------------------------------------------------------------------------------------------+
-| 3:30pm - 4:00pm                               | Data Blitz TBD                             | [Sign up to give a talk!](https://forms.gle/8d3rhS5hLjnn2q8K6)                                           |
+| 3:15pm - 3:30pm                               | Data Blitz TBD                             | [Sign up to give a talk!](https://forms.gle/8d3rhS5hLjnn2q8K6)                                           |
 +-----------------------------------------------+--------------------------------------------+----------------------------------------------------------------------------------------------------------+
 | [4:00pm - 6:00pm]{style="color:#0caacf;"}     | [Social]{style="color:#0caacf;"}           | [\@ [Snakes and Lattes](https://www.snakesandlattes.com/tucson)]{style="color:#0caacf"}                  |
 |                                               |                                            |                                                                                                          |
@@ -70,7 +68,7 @@ Except for where noted, **this conference can be attended either in person or vi
 
 ::: {layout="[ 70, 30 ]"}
 ::: {#first-column .left}
-### Catherine D’Ignazio  
+### Catherine D’Ignazio
 
 #### Data Feminism in Action
 :::
