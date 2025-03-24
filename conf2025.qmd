@@ -28,8 +28,10 @@ editor: visual
 
 ::: panel-tabset
 ## Schedule
-
+\
+\
 Except for where noted, **this conference can be attended either in person or virtually via Zoom** (link shared upon [registration](https://forms.gle/q9ukoSXc34qd2XJp9))
+\
 
 +-----------------------------------------------+--------------------------------------------+----------------------------------------------------------------------------------------------------------+
 | **Time**                                      | **Event**                                  | **Speaker**                                                                                              |
@@ -64,30 +66,43 @@ Except for where noted, **this conference can be attended either in person or vi
 \
 [\*Blue text denotes in-person only sessions]{style="color:#0caacf;"}
 
-## Keynote Speaker
+## Keynote
+
+::: {layout="[ 70, 30 ]"}
+::: {#first-column .left}
+### Catherine D’Ignazio  
+
+#### Data Feminism in Action
+:::
+
+::: {#second-column}
+![](images/CatherineD-Square2.png)
+:::
+:::
 
 \
-[Catherine D’Ignazio](https://kanarinka.com/) is an Associate Professor of Urban Science and Planning in the Department of Urban Studies and Planning at MIT. She is also Director of the [Data + Feminism Lab](http://dataplusfeminism.mit.edu/) which uses data and computational methods to work towards gender and racial justice. D’Ignazio is a scholar, artist/designer and hacker mama who focuses on feminist technology, data literacy and civic engagement. Her 2020 book from MIT Press, [Data Feminism](https://bookbook.pubpub.org/data-feminism), co-authored with Lauren Klein, charts a course for more ethical and empowering data science practices. Since 2019, she has co-organized [Data Against Feminicide](http://datoscontrafeminicidio.net/), a participatory action-research-design project, with Isadora Cruxên, Silvana Fumega and Helena Suárez Val, which includes co-designed AI tools for human rights data activists. Her 2024 book, [Counting Feminicide: Data Feminism in Action](https://mitpress.mit.edu/9780262048873/counting-feminicide/) (MIT Press) is an extended case study about grassroots data activism to end gender-related violence. D'Ignazio's research at the intersection of technology, design & social justice has been published in the Big Data & Society, the Journal of Community Informatics, and the proceedings of ACM SIGCHI and ACM FAccT. Her art and design projects have won awards from the Tanne Foundation, Turbulence.org and the Knight Foundation and exhibited at the Venice Biennial and the ICA Boston.
 
-::: column-margin
-![](images/CatherineD-Square.webp)
-:::
+[Catherine D’Ignazio](https://kanarinka.com/) is an Associate Professor of Urban Science and Planning in the Department of Urban Studies and Planning at MIT. She is also Director of the [Data + Feminism Lab](http://dataplusfeminism.mit.edu/) which uses data and computational methods to work towards gender and racial justice. D’Ignazio is a scholar, artist/designer and hacker mama who focuses on feminist technology, data literacy and civic engagement. Her 2020 book from MIT Press, [Data Feminism](https://bookbook.pubpub.org/data-feminism), co-authored with Lauren Klein, charts a course for more ethical and empowering data science practices. Since 2019, she has co-organized [Data Against Feminicide](http://datoscontrafeminicidio.net/), a participatory action-research-design project, with Isadora Cruxên, Silvana Fumega and Helena Suárez Val, which includes co-designed AI tools for human rights data activists. Her 2024 book, [Counting Feminicide: Data Feminism in Action](https://mitpress.mit.edu/9780262048873/counting-feminicide/) (MIT Press) is an extended case study about grassroots data activism to end gender-related violence. D'Ignazio's research at the intersection of technology, design & social justice has been published in the Big Data & Society, the Journal of Community Informatics, and the proceedings of ACM SIGCHI and ACM FAccT. Her art and design projects have won awards from the Tanne Foundation, Turbulence.org and the Knight Foundation and exhibited at the Venice Biennial and the ICA Boston.
 
 ## Speakers
 
 ::: {layout="[ 60, 40 ]"}
-::: {#first-column}
+<div>
+
 ### Salena Torres Ashton
 
 \
 \
 
 ##### What is Probability and Why Does it Matter for Data Science?
-:::
 
-::: {#second-column}
+</div>
+
+<div>
+
 ![](images/salena_ashton2.png)
-:::
+
+</div>
 :::
 
 Salena Torres Ashton is a first-generation college student at the University of Arizona. She has a MS in Data Science and hopes to complete her PhD in Information Science in 2025. She researches causality and formal semantics in natural language, examining their effects on how people phrase questions. Salena currently teaches 'Introduction to Machine Learning" with the iSchool and serves as a mentor for the Women in Stem and Engineering program at the U of A. Before attending graduate school, Salena worked for over 25 years as a professional genealogist and holds a BA in History. In her free time, she enjoys solo bicycling, backpacking, and gardening.
@@ -228,7 +243,7 @@ Panelists: Meghavarshini (Megh) Krishnaswamy, Dalal Alharthi, Xinchen Yu, and La
 ::: {.callout-note appearance="minimal"}
 PM Topic: **Professional Skills + Tips for Breaking into the ever-changing field of Data Science**
 
-Panelists: Andrea Thomer
+Panelists: Andrea Thomer, Maria Pudoka, and Heidi Steiner
 :::
 :::
 
