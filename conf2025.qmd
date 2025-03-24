@@ -40,7 +40,7 @@ Except for where noted, **this conference can be attended either in person or vi
 +-----------------------------------------------+--------------------------------------------+----------------------------------------------------------------------------------------------------------+
 | 10:00am - 11:00am                             | Invited Speakers                           | Ashley Huggins, Laura Falk, Salena Torres Ashton                                                         |
 +-----------------------------------------------+--------------------------------------------+----------------------------------------------------------------------------------------------------------+
-| 11:00am - 11:30am                             | Data Blitz                                 | Ashwini Jannu, Delaney Scott-Martin, Liliana Salas, Abadit Weldeslassie, Deandra Jones                   |
+| 11:00am - 11:30am                             | Data Blitz                                 | Ashwini Jannu, Delaney Scott-Martin, Liliana Salas, Abadit Weldeslassie, Deandra Jones, and Jiayue He    |
 +-----------------------------------------------+--------------------------------------------+----------------------------------------------------------------------------------------------------------+
 | [11:30am - 12:30pm]{style="color:#0caacf;"}   | [Morning Panel]{style="color:#0caacf;"}    | [Meghavarshini (Megh) Krishnaswamy, Xinchen Yu, Dalal Alharthi, and Laura Dozal]{style="color:#0caacf;"} |
 +-----------------------------------------------+--------------------------------------------+----------------------------------------------------------------------------------------------------------+
@@ -52,7 +52,7 @@ Except for where noted, **this conference can be attended either in person or vi
 +-----------------------------------------------+--------------------------------------------+----------------------------------------------------------------------------------------------------------+
 | 2:00pm - 3:00 pm                              | Invited Speakers                           | Xuan Lu, Dianne Patterson, Jung Mee Park, Desiree Andersen                                               |
 +-----------------------------------------------+--------------------------------------------+----------------------------------------------------------------------------------------------------------+
-| 3:15pm - 3:30pm                               | Data Blitz TBD                             | [Sign up to give a talk!](https://forms.gle/8d3rhS5hLjnn2q8K6)                                           |
+| 3:15pm - 3:30pm                               | Data Blitz TBD                             | Roxana Akbarsharifi, Mary Ahern, Sarah Bratt, Melika Sharifi, Anushree Biswas, and Danielle Van Boxel    |
 +-----------------------------------------------+--------------------------------------------+----------------------------------------------------------------------------------------------------------+
 | [4:00pm - 6:00pm]{style="color:#0caacf;"}     | [Social]{style="color:#0caacf;"}           | [\@ [Snakes and Lattes](https://www.snakesandlattes.com/tucson)]{style="color:#0caacf"}                  |
 |                                               |                                            |                                                                                                          |
