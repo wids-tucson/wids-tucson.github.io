@@ -9,14 +9,14 @@ editor: visual
 
 # WiDS Tucson presents: {.center}
 
-### Data Blitz 2025  {.center}
+### Data Blitz 2025 {.center}
 
 ::: callout-important
 # 
 
 ##### 🗓 Friday March 28, 2025
 
-##### ⏰ 11-11:30 AM + 3:15-3:30 PM
+##### ⏰ 11-11:30 AM + 3:15-3:45 PM
 :::
 
  \
@@ -28,15 +28,15 @@ We will have a morning session and, if needed, an additional afternoon session. 
 \
 
 | Time | Talk Title                                                                                                          | Speaker              |
-|------|--------------------------------------------------|--------------|
+|--------------|---------------------------------------------|--------------|
 | AM   | Uncovering Patterns Through Data Analysis at Catalyst Studios - University of Arizona                               | Ashwini Jannu        |
 | AM   | Comparative sister taxa approaches to understanding climate-related animal extinctions                              | Delaney Scott-Martin |
 | AM   | Predicting Fatal Crashes in Portland: How Speed and Geography Can Improve Safety                                    | Liliana Salas        |
 | AM   | Predicting customer behavior using machine learning algorithms: Customer Insight segmentation App                   | Abadit Weldeslassie  |
 | AM   | Understanding Black Bear Populations on the Navajo Nation                                                           | Deandra Jones        |
 | AM   | Application of Topic Modeling Analysis on MSHA mining Fatality Reports                                              | Jiayue He            |
+| AM   | Responders vs Nonresponders: Applications of Data Science in Diet Analysis                                          | Mary Ahern           |
 | PM   | Transfer Student Portal (The Optimal Transfer Pathway)                                                              | Roxana Akbarsharifi  |
-| PM   | Responders vs Nonresponders: Applications of Data Science in Diet Analysis                                          | Mary Ahern           |
 | PM   | Text Based Classifiers of Humility in Inquiry                                                                       | Sarah Bratt          |
 | PM   | Using Causal Inference and Double Machine Learning to Uncover Important Relationships in Higher Education Data Sets | Melika Sharifi       |
 | PM   | Types of Random Sampling                                                                                            | Anushree Biswas      |
