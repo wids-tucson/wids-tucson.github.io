@@ -32,7 +32,7 @@ Except for where noted, **this conference can be attended either in person or vi
 \
 
 |                                               |                                                                                                          |                                                                                                                   |                                                                                                                                                                       |
-|----------------|----------------|-----------------|------------------------|
+|-----------------|-----------------|-----------------|----------------------|
 | **Time**                                      | **Event**                                                                                                | **Speaker**                                                                                                       | Talk Title                                                                                                                                                            |
 | [\~8:45am - 9:00am]{style="color:#0caacf"}    | [Arrival]{style="color:#0caacf"} [Coffee + pastries]{style="color:#0caacf"}^[𝛼]{style="color:#0caacf;"}^ |                                                                                                                   | [Welcome]{style="color:#0caacf"}                                                                                                                                      |
 | [**9:00am - 9:45am**]{style="color:#0caacf;"} | [**Keynote**]{style="color:#0caacf;"}                                                                    | [**Catherine D'Ignazio**]{style="color:#0caacf;"}                                                                 | [**Data Feminism in Action**]{style="color:#0caacf;"}                                                                                                                 |
@@ -46,7 +46,7 @@ Except for where noted, **this conference can be attended either in person or vi
 | 2:00pm - 2:20pm                               | Invited Speaker Session                                                                                  | Xuan Lu                                                                                                           | Understanding Emotions in Remote Work: The Link Between Emojis and Long-Term Engagement                                                                               |
 | 2:20pm - 2:40pm                               | Invited Speaker Session                                                                                  | Dianne Patterson                                                                                                  | Three Key Tools for the Future                                                                                                                                        |
 | 2:40pm - 3:00pm                               | Invited Speaker Session                                                                                  | Jung Mee Park                                                                                                     | Navigating Data in Public Libraries: Challenges & Opportunities                                                                                                       |
-| 3:00pm - 3:20pm                               | Invited Speaker Session                                                                                  | Desiree Andersen                                                                                                  | Navigating Data in Public Libraries: Challenges & Opportunities                                                                                                       |
+| 3:00pm - 3:20pm                               | Invited Speaker Session                                                                                  | Desiree Andersen                                                                                                  | Predictive Modeling of Mosquito Abundance and West Nile Virus Transmission Dynamics: Insights from a Decade of Surveillance in Arizona                                |
 | 3:20pm - 3:45pm                               | Data Blitz                                                                                               | Roxana Akbarsharifi, Sarah Bratt, Melika Sharifi, Anushree Biswas, and Danielle Van Boxel                         | Check out the [Data Blitz](dataBlitz2025.qmd) page!                                                                                                                   |
 | [4:00pm - 6:00pm]{style="color:#0caacf;"}     | [Social]{style="color:#0caacf;"}                                                                         | [\@ [Snakes and Lattes](https://www.snakesandlattes.com/tucson)]{style="color:#0caacf"}                           | [Bring your own cash for drinks and snacks!]{style="color:#0caacf;"}                                                                                                  |
 
@@ -76,7 +76,6 @@ Except for where noted, **this conference can be attended either in person or vi
 [Catherine D’Ignazio](https://kanarinka.com/) is an Associate Professor of Urban Science and Planning in the Department of Urban Studies and Planning at MIT. She is also Director of the [Data + Feminism Lab](http://dataplusfeminism.mit.edu/) which uses data and computational methods to work towards gender and racial justice. D’Ignazio is a scholar, artist/designer and hacker mama who focuses on feminist technology, data literacy and civic engagement. Her 2020 book from MIT Press, [Data Feminism](https://bookbook.pubpub.org/data-feminism), co-authored with Lauren Klein, charts a course for more ethical and empowering data science practices. Since 2019, she has co-organized [Data Against Feminicide](http://datoscontrafeminicidio.net/), a participatory action-research-design project, with Isadora Cruxên, Silvana Fumega and Helena Suárez Val, which includes co-designed AI tools for human rights data activists. Her 2024 book, [Counting Feminicide: Data Feminism in Action](https://mitpress.mit.edu/9780262048873/counting-feminicide/) (MIT Press) is an extended case study about grassroots data activism to end gender-related violence. D'Ignazio's research at the intersection of technology, design & social justice has been published in the Big Data & Society, the Journal of Community Informatics, and the proceedings of ACM SIGCHI and ACM FAccT. Her art and design projects have won awards from the Tanne Foundation, Turbulence.org and the Knight Foundation and exhibited at the Venice Biennial and the ICA Boston.
 
 ## Speakers
-
 
 ::: {layout="[ 60, 40 ]"}
 <div>
@@ -140,7 +139,6 @@ Laura Falk, MS, is a Data Scientist at the University of Arizona's Mel and Enid 
 
 Salena Torres Ashton is a first-generation college student at the University of Arizona. She has a MS in Data Science and hopes to complete her PhD in Information Science in 2025. She researches causality and formal semantics in natural language, examining their effects on how people phrase questions. Salena currently teaches 'Introduction to Machine Learning" with the iSchool and serves as a mentor for the Women in Stem and Engineering program at the U of A. Before attending graduate school, Salena worked for over 25 years as a professional genealogist and holds a BA in History. In her free time, she enjoys solo bicycling, backpacking, and gardening.
 
-
 ::: {layout="[ 60, 40 ]"}
 <div>
 
@@ -161,7 +159,6 @@ Salena Torres Ashton is a first-generation college student at the University of 
 :::
 
 Dr. Xuan Lu is a tenure-track assistant professor at the College of Information Science, the University of Arizona. Her research focuses on creating novel methodologies of human-centered data science and using them to understand and optimize the activities and outcomes of our future human society, especially those triggered by technology innovations, with a recent emphasis on the domain of Future of Work.\
-
 
 ::: {layout="[ 60, 40 ]"}
 <div>
@@ -184,7 +181,6 @@ Dr. Xuan Lu is a tenure-track assistant professor at the College of Information 
 
 Dianne Patterson is the RII staff scientist in support of neuroimaging. Dianne Patterson is also the program coordinator for the Neuroimaging Methods Certificate and an instructor of computational and neuroimaging skills, all under the umbrella of Cognitive Science. Dianne is especially passionate about good teaching and documentation, which is why the phenomenal OpenClass platform is in use for all teaching. Diane is working to develop immersive virtual training opportunities for the University of Arizona.
 
-
 ::: {layout="[ 60, 40 ]"}
 <div>
 
@@ -205,7 +201,6 @@ Dianne Patterson is the RII staff scientist in support of neuroimaging. Dianne P
 :::
 
 Jung Mee Park is a Young Adult Librarian with the Pima County Public Library. Previously, she worked as an educator and data analyst at the University of Arizona. An award-winning sociologist, she was also a postdoctoral fellow in Korean Studies at the University of Southern California. She holds a PhD in Sociology from Cornell University, an MLIS from the University of Arizona, and an MA in Quantitative Methods in the Social Sciences from Columbia University. Her research has been published in the American Journal of Sociology, International Area Studies Review, and the Journal of Education in Library and Information Science. Her favorite data analysis tool is RStudio.
-
 
 ::: {layout="[ 60, 40 ]"}
 <div>
@@ -244,7 +239,7 @@ Panelists: Andrea Thomer, Maria Pudoka, and Heidi Steiner
 
 ## Data Blitz
 
-Don't miss the [Data Blitz](dataBlitz2025.qmd) page! 
+Don't miss the [Data Blitz](dataBlitz2025.qmd) page!
 :::
 
 ### Sponsored by
