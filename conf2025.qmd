@@ -32,9 +32,9 @@ Except for where noted, **this conference can be attended either in person or vi
 \
 
 |                                               |                                                                                                          |                                                                                                                   |                                                                                                                                                                       |
-|-----------------|-----------------|-----------------|----------------------|
+|-----------------|-----------------|-----------------|---------------------|
 | **Time**                                      | **Event**                                                                                                | **Speaker**                                                                                                       | Talk Title                                                                                                                                                            |
-| [\~8:45am - 9:00am]{style="color:#0caacf"}    | [Arrival]{style="color:#0caacf"} [Coffee + pastries]{style="color:#0caacf"}^[𝛼]{style="color:#0caacf;"}^ |                                                                                                                   | [Welcome]{style="color:#0caacf"}                                                                                                                                      |
+| [\~8:45am - 9:00am]{style="color:#0caacf"}    | [Arrival]{style="color:#0caacf"} [Coffee + pastries]{style="color:#0caacf"}^[𝛼]{style="color:#0caacf;"}^ | Kristina Riemer and Angela Cruze                                                                                  | Welcome                                                                                                                                                               |
 | [**9:00am - 9:45am**]{style="color:#0caacf;"} | [**Keynote**]{style="color:#0caacf;"}                                                                    | [**Catherine D'Ignazio**]{style="color:#0caacf;"}                                                                 | [**Data Feminism in Action**]{style="color:#0caacf;"}                                                                                                                 |
 | 10:00am - 10:20am                             | Invited Speaker Session                                                                                  | Ashley Huggins                                                                                                    | Mapping the brain in PTSD: leveraging global, large-scale neuroimaging datasets to identify structural and functional neural markers of posttraumatic stress disorder |
 | 10:20am - 10:40am                             | Invited Speaker Session                                                                                  | Laura Falk                                                                                                        | API Key Basics: Unlocking Data Possibilities                                                                                                                          |
@@ -55,11 +55,11 @@ Except for where noted, **this conference can be attended either in person or vi
 \
 ^[\*]{style="color:#0caacf;"}^[Blue text denotes in-person only sessions]{style="color:#0caacf;"}
 
-^[𝛼]{style="color:#0caacf;"}^[provided by University of Arizona Data Science Institute]{style="color:#0caacf"}
+^[𝛼]{style="color:#0caacf;"}^provided by University of Arizona Data Science Institute
 
 ## Keynote
 
-::: {layout="[ 70, 30 ]"}
+::: {layout="[ 60, 40 ]"}
 ::: {#first-column .left}
 ### Catherine D’Ignazio
 
@@ -103,7 +103,6 @@ Dr. Ashley Huggins is an Assistant Professor in the Department of Psychology at 
 ### Laura Falk
 
 \
-\
 
 ##### API Key Basics: Unlocking Data Possibilities
 
@@ -123,7 +122,6 @@ Laura Falk, MS, is a Data Scientist at the University of Arizona's Mel and Enid 
 
 ### Salena Torres Ashton
 
-\
 \
 
 ##### What is Probability and Why Does it Matter for Data Science?
@@ -145,7 +143,6 @@ Salena Torres Ashton is a first-generation college student at the University of 
 ### Xuan Lu
 
 \
-\
 
 ##### Understanding Emotions in Remote Work: The Link Between Emojis and Long-Term Engagement
 
@@ -165,7 +162,6 @@ Dr. Xuan Lu is a tenure-track assistant professor at the College of Information 
 
 ### Dianne Patterson
 
-\
 \
 
 ##### Three Key Tools for the Future
@@ -187,7 +183,6 @@ Dianne Patterson is the RII staff scientist in support of neuroimaging. Dianne P
 ### Jung Mee Park
 
 \
-\
 
 ##### Navigating Data in Public Libraries: Challenges & Opportunities
 
@@ -207,7 +202,6 @@ Jung Mee Park is a Young Adult Librarian with the Pima County Public Library. Pr
 
 ### Desiree Andersen
 
-\
 \
 
 ##### Predictive Modeling of Mosquito Abundance and West Nile Virus Transmission Dynamics: Insights from a Decade of Surveillance in Arizona
