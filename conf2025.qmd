@@ -32,9 +32,9 @@ Except for where noted, **this conference can be attended either in person or vi
 \
 
 |                                               |                                                                                                          |                                                                                                                   |                                                                                                                                                                       |
-|-----------------|-----------------|-----------------|---------------------|
+|------------------|------------------|------------------|--------------------|
 | **Time**                                      | **Event**                                                                                                | **Speaker**                                                                                                       | Talk Title                                                                                                                                                            |
-| [\~8:45am - 9:00am]{style="color:#0caacf"}    | [Arrival]{style="color:#0caacf"} [Coffee + pastries]{style="color:#0caacf"}^[𝛼]{style="color:#0caacf;"}^ | Kristina Riemer and Angela Cruze                                                                                  | Welcome                                                                                                                                                               |
+| [\~8:45am - 9:00am]{style="color:#0caacf"}    | [Arrival]{style="color:#0caacf"} [Coffee + pastries]{style="color:#0caacf"}^[𝛼]{style="color:#0caacf;"}^ | Kristina Riemer                                                                                                   | Welcome                                                                                                                                                               |
 | [**9:00am - 9:45am**]{style="color:#0caacf;"} | [**Keynote**]{style="color:#0caacf;"}                                                                    | [**Catherine D'Ignazio**]{style="color:#0caacf;"}                                                                 | [**Data Feminism in Action**]{style="color:#0caacf;"}                                                                                                                 |
 | 10:00am - 10:20am                             | Invited Speaker Session                                                                                  | Ashley Huggins                                                                                                    | Mapping the brain in PTSD: leveraging global, large-scale neuroimaging datasets to identify structural and functional neural markers of posttraumatic stress disorder |
 | 10:20am - 10:40am                             | Invited Speaker Session                                                                                  | Laura Falk                                                                                                        | API Key Basics: Unlocking Data Possibilities                                                                                                                          |
@@ -230,6 +230,36 @@ PM Topic: **Professional Skills + Tips for Breaking into the ever-changing field
 
 Panelists: Andrea Thomer, Maria Pudoka, and Heidi Steiner
 :::
+
+\
+
+#### Panelist Bios
+
+\
+
+###### Meghavarshini (Megh) Krishnaswamy
+
+A computational linguist, with a specialization in the phonology of Indic languages,  and automatic speech processing. Dissertation research focuses on building models to detect the correlates of teamwork and rapport in speech communication; and assess how pattern recognition systems like neural networks can help us understand how we exchange information and unconsciously signal  feelings towards our interlocutors.
+
+###### Xinchen Yu
+
+Xinchen’s research lies at the intersection of natural language processing and computational social science. Her primary goal is to make computers understand and facilitate better communications between people. Her latest work centers on explaining, predicting, and preventing incivility in user-generated content.
+
+###### Laura Dozal
+
+Computational Social Scientist with 6+ years of specialization in information behavior and visual analysis through Computer Vision/AI, Network Science and knowledge discovery. Her dissertation research is to identify a narrative from a collection of topical images pulled from social media using a mixed methods approach.
+
+###### Maria Pudoka
+
+Maria Pudoka is a PhD candidate at the University of Arizona’s Steward Observatory.  In this role, she uses (mostly Python) to analyse data from ground-based and spaced-based telescopes (including the James Webb Space Telescope!) to answer cosmological and astrophysical questions about the structure of the Universe and the evolution of galaxies. Maria became involved with data science without realizing it due to the huge amounts of noisy and inhomogeneous data that is typical of astronomical observations.
+
+###### Andrea Thomer
+
+Dr. Andrea Thomer is an Associate Professor at the University of Arizona College of Information Science, where she studies and develops knowledge infrastructures. She has worked with natural science collections communities (and their data infrastructure) for almost 20 years.
+
+###### Heidi Steiner
+
+Heidi Steiner is a clinical data scientist with Boehringer Ingelheim pharmaceuticals where she leads clinical trial teams through statistical analyses equipped with R. Heidi began her data science journey while earning a PhD here at UArizona in a pharmacogenomics lab challenged by large data sets. She loves standardized data, biostatistics, and reproducible research.
 
 ## Data Blitz
 
