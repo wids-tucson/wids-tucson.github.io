@@ -3,12 +3,6 @@ project:
   output-dir: docs
 
 website:
-  announcement: 
-    icon: balloon-fill
-    dismissable: true
-    content: "**It's time!** - WiDS Tucson 2025 is here! Check out the 2025 Conference tab for more info. [Register here!](https://forms.gle/q9ukoSXc34qd2XJp9)"
-    type: primary
-    position: below-navbar
   image: "images/WiDS-line1-3.png"
   navbar:
     pinned: true
@@ -25,10 +19,6 @@ website:
           - community.qmd
           - text: "Code of Conduct"
             href: conduct.qmd
-      - text: "2025 Conference"
-        href: conf2025.qmd
-      - text: "Data Blitz 2025"
-        href: dataBlitz2025.qmd
       - text: "Meeting Archive"
         href: archive.qmd
       - icon: github

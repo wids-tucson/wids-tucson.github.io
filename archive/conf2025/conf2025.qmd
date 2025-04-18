@@ -9,7 +9,6 @@ editor: visual
 ---
 
 ::: callout-important
-#### [Register now!](https://forms.gle/q9ukoSXc34qd2XJp9)
 
 ##### 🗓 Friday March 28, 2025
 
@@ -28,11 +27,11 @@ editor: visual
 ## Schedule
 
 \
-Except for where noted, **this conference can be attended either in person or virtually via Zoom** (link shared upon [registration](https://forms.gle/q9ukoSXc34qd2XJp9))\
+Except for where noted, **this conference can be attended either in person or virtually via Zoom** (link shared upon registration)\
 \
 
 |                                               |                                                                                                          |                                                                                                                   |                                                                                                                                                                       |
-|------------------|------------------|------------------|--------------------|
+|------------------|------------------|------------------|-------------------|
 | **Time**                                      | **Event**                                                                                                | **Speaker**                                                                                                       | Talk Title                                                                                                                                                            |
 | [\~8:45am - 9:00am]{style="color:#0caacf"}    | [Arrival]{style="color:#0caacf"} [Coffee + pastries]{style="color:#0caacf"}^[𝛼]{style="color:#0caacf;"}^ | Kristina Riemer                                                                                                   | Welcome                                                                                                                                                               |
 | [**9:00am - 9:45am**]{style="color:#0caacf;"} | [**Keynote**]{style="color:#0caacf;"}                                                                    | [**Catherine D'Ignazio**]{style="color:#0caacf;"}                                                                 | [**Data Feminism in Action**]{style="color:#0caacf;"}                                                                                                                 |
@@ -263,7 +262,27 @@ Heidi Steiner is a clinical data scientist with Boehringer Ingelheim pharmaceuti
 
 ## Data Blitz
 
-Don't miss the [Data Blitz](dataBlitz2025.qmd) page!
+ ⏰ 11-11:30 AM + 3:20-3:45 PM
+
+The WIDS Tucson Data Blitz sessions will be *short* (3-minute) talks from members of the WIDS community. A slide template will be provided - you just need to tell us about your exciting work!
+
+We will have a morning session and, if needed, an additional afternoon session. Within each session, attendees will vote on their favorite talks. This will be a low-stakes opportunity to get recognition for your presentations!
+
+\
+
+| Time | Talk Title                                                                                                          | Speaker              |
+|-----------------|--------------------------------------|-----------------|
+| AM   | Uncovering Patterns Through Data Analysis at Catalyst Studios - University of Arizona                               | Ashwini Jannu        |
+| AM   | Comparative sister taxa approaches to understanding climate-related animal extinctions                              | Delaney Scott-Martin |
+| AM   | Predicting Fatal Crashes in Portland: How Speed and Geography Can Improve Safety                                    | Liliana Salas        |
+| AM   | Predicting customer behavior using machine learning algorithms: Customer Insight segmentation App                   | Abadit Weldeslassie  |
+| AM   | Understanding Black Bear Populations on the Navajo Nation                                                           | Deandra Jones        |
+| AM   | Application of Topic Modeling Analysis on MSHA mining Fatality Reports                                              | Jiayue He            |
+| AM   | Responders vs Nonresponders: Applications of Data Science in Diet Analysis                                          | Mary Ahern           |
+| PM   | Transfer Student Portal (The Optimal Transfer Pathway)                                                              | Roxana Akbarsharifi  |
+| PM   | Using Causal Inference and Double Machine Learning to Uncover Important Relationships in Higher Education Data Sets | Melika Sharifi       |
+| PM   | Types of Random Sampling                                                                                            | Anushree Biswas      |
+| PM   | Finding Humor in Academia                                                                                           | Danielle Van Boxel   |
 :::
 
 ### Sponsored by
